@@ -1,0 +1,10 @@
+[
+  {
+    "id": "ChainFooter.block",
+    "defaultMessage": "Block"
+  },
+  {
+    "id": "ChainFooter.noConnection",
+    "defaultMessage": "No connection"
+  }
+]

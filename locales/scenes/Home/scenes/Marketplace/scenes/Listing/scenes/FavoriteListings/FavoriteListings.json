@@ -1,0 +1,26 @@
+[
+  {
+    "id": "FavoriteListings.byDate",
+    "defaultMessage": "By Date"
+  },
+  {
+    "id": "FavoriteListings.lowestPrice",
+    "defaultMessage": "Lowest Price"
+  },
+  {
+    "id": "FavoriteListings.highestPrice",
+    "defaultMessage": "Highest Price"
+  },
+  {
+    "id": "FavoriteListings.marketplace",
+    "defaultMessage": "Marketplace"
+  },
+  {
+    "id": "FavoriteListings.favoriteListings",
+    "defaultMessage": "Favorite Listings"
+  },
+  {
+    "id": "FavoriteListings.currency",
+    "defaultMessage": "Currency"
+  }
+]

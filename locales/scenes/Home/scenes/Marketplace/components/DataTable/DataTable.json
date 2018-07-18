@@ -1,0 +1,50 @@
+[
+  {
+    "id": "DataTable.default",
+    "defaultMessage": "Default"
+  },
+  {
+    "id": "DataTable.date",
+    "defaultMessage": "Date"
+  },
+  {
+    "id": "DataTable.search",
+    "defaultMessage": "Search"
+  },
+  {
+    "id": "DataTable.category",
+    "defaultMessage": "Category"
+  },
+  {
+    "id": "DataTable.subCategory",
+    "defaultMessage": "SubCategory"
+  },
+  {
+    "id": "DataTable.save",
+    "defaultMessage": "SAVE"
+  },
+  {
+    "id": "DataTable.delete",
+    "defaultMessage": "DELETE"
+  },
+  {
+    "id": "DataTable.view",
+    "defaultMessage": "VIEW"
+  },
+  {
+    "id": "DataTable.error",
+    "defaultMessage": "Error"
+  },
+  {
+    "id": "DataTable.success",
+    "defaultMessage": "Success"
+  },
+  {
+    "id": "DataTable.successSave",
+    "defaultMessage": "Successfully saved"
+  },
+  {
+    "id": "DataTable.successDelete",
+    "defaultMessage": "Successfully deleted"
+  }
+]

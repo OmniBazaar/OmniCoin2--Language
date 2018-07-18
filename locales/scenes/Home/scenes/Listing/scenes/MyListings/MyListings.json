@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MyListings.byDate",
+    "defaultMessage": "By Date"
+  },
+  {
+    "id": "MyListings.lowestPrice",
+    "defaultMessage": "Lowest Price"
+  },
+  {
+    "id": "MyListings.highestPrice",
+    "defaultMessage": "Highest Price"
+  },
+  {
+    "id": "MyListings.allCategories",
+    "defaultMessage": "All Categories"
+  },
+  {
+    "id": "MyListings.marketplace",
+    "defaultMessage": "Marketplace"
+  },
+  {
+    "id": "MyListings.myListings",
+    "defaultMessage": "My Listings"
+  }
+]

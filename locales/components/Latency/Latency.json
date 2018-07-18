@@ -1,0 +1,22 @@
+[
+  {
+    "id": "Latency.low",
+    "defaultMessage": "Latency.low"
+  },
+  {
+    "id": "Latency.medium",
+    "defaultMessage": "Latency.medium"
+  },
+  {
+    "id": "Latency.high",
+    "defaultMessage": "Latency.high"
+  },
+  {
+    "id": "Latency.milliseconds",
+    "defaultMessage": "{latency} ms"
+  },
+  {
+    "id": "Latency.seconds",
+    "defaultMessage": "{latency} s"
+  }
+]

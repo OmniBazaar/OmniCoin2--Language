@@ -1,0 +1,66 @@
+[
+  {
+    "id": "Settings.publicKey",
+    "defaultMessage": "Public Key"
+  },
+  {
+    "id": "Settings.yourPublicKey",
+    "defaultMessage": "Your Public Key"
+  },
+  {
+    "id": "Settings.copy",
+    "defaultMessage": "COPY"
+  },
+  {
+    "id": "Settings.keyCopied",
+    "defaultMessage": "Key copied!"
+  },
+  {
+    "id": "Settings.publicKeyNote",
+    "defaultMessage": "It is safe to share this key with anyone who may wish to send you OmniCoins. However, it is easier to give them your account name.!"
+  },
+  {
+    "id": "Settings.importWF",
+    "defaultMessage": "Import WF Key"
+  },
+  {
+    "id": "Settings.importFromWallet",
+    "defaultMessage": "Import Keys from Wallet"
+  },
+  {
+    "id": "Settings.wfPrivateKey",
+    "defaultMessage": "WF Private Key"
+  },
+  {
+    "id": "Settings.enterPrivateKey",
+    "defaultMessage": "Enter Private Key"
+  },
+  {
+    "id": "Settings.rescanBlockchain",
+    "defaultMessage": "Rescan Blockchain"
+  },
+  {
+    "id": "Settings.importKey",
+    "defaultMessage": "IMPORT KEY"
+  },
+  {
+    "id": "Settings.walletPath",
+    "defaultMessage": "Wallet Path"
+  },
+  {
+    "id": "Settings.walletPassword",
+    "defaultMessage": "Wallet Password"
+  },
+  {
+    "id": "Settings.selectFile",
+    "defaultMessage": "Select File"
+  },
+  {
+    "id": "Settings.enterPassword",
+    "defaultMessage": "Please enter password"
+  },
+  {
+    "id": "Settings.importWallet",
+    "defaultMessage": "IMPORT WALLET"
+  }
+]

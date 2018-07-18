@@ -1,0 +1,74 @@
+[
+  {
+    "id": "Mail.compose",
+    "defaultMessage": "Compose"
+  },
+  {
+    "id": "Mail.close",
+    "defaultMessage": "CLOSE"
+  },
+  {
+    "id": "Mail.newMessage",
+    "defaultMessage": "New Message"
+  },
+  {
+    "id": "Mail.to",
+    "defaultMessage": "To"
+  },
+  {
+    "id": "Mail.subject",
+    "defaultMessage": "Subject"
+  },
+  {
+    "id": "Mail.enterSubject",
+    "defaultMessage": "Enter subject"
+  },
+  {
+    "id": "Mail.enterUsername",
+    "defaultMessage": "Enter Username"
+  },
+  {
+    "id": "Mail.message",
+    "defaultMessage": "Message"
+  },
+  {
+    "id": "Mail.enterMessage",
+    "defaultMessage": "Enter message"
+  },
+  {
+    "id": "Mail.send",
+    "defaultMessage": "SEND"
+  },
+  {
+    "id": "Mail.cancel",
+    "defaultMessage": "CANCEL"
+  },
+  {
+    "id": "Mail.addressBook",
+    "defaultMessage": "ADDRESS BOOK"
+  },
+  {
+    "id": "Mail.success",
+    "defaultMessage": "Success"
+  },
+  {
+    "id": "Mail.mailSent",
+    "defaultMessage": "Mail sent successfully"
+  },
+  {
+    "id": "Mail.error",
+    "defaultMessage": "Error"
+  },
+  {
+    "id": "Mail.mailNotSent",
+    "defaultMessage": "There was an error while trying to send your mail"
+  },
+  {
+    "id": "Mail.usernameDoesNotExist",
+    "defaultMessage": "Not found"
+  },
+  {
+    "id": "Mail.required",
+    "defaultMessage": "Required"
+  }
+]

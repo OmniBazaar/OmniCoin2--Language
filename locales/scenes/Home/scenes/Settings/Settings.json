@@ -1,0 +1,34 @@
+[
+  {
+    "id": "Settings.account",
+    "defaultMessage": "Account"
+  },
+  {
+    "id": "Settings.registered",
+    "defaultMessage": "REGISTERED"
+  },
+  {
+    "id": "Settings.xom",
+    "defaultMessage": "XOM"
+  },
+  {
+    "id": "Settings.accountId",
+    "defaultMessage": "Account ID"
+  },
+  {
+    "id": "Settings.currentBalance",
+    "defaultMessage": "Current Balance"
+  },
+  {
+    "id": "Settings.publicData",
+    "defaultMessage": "Public Data"
+  },
+  {
+    "id": "Settings.privateData",
+    "defaultMessage": "Private Data"
+  },
+  {
+    "id": "Settings.recentTransactions",
+    "defaultMessage": "Recent Transactions"
+  }
+]

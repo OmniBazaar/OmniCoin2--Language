@@ -1,0 +1,74 @@
+[
+  {
+    "id": "MyEscrowTransactions.transactionID",
+    "defaultMessage": "Transaction ID"
+  },
+  {
+    "id": "MyEscrowTransactions.amount",
+    "defaultMessage": "Amount"
+  },
+  {
+    "id": "MyEscrowTransactions.parties",
+    "defaultMessage": "Parties"
+  },
+  {
+    "id": "MyEscrowTransactions.expirationTime",
+    "defaultMessage": "Expiration time"
+  },
+  {
+    "id": "MyEscrowTransactions.finalize",
+    "defaultMessage": "Finalize"
+  },
+  {
+    "id": "MyEscrowTransactions.askRelease",
+    "defaultMessage": "Are you sure you want to release money to {username}?"
+  },
+  {
+    "id": "MyEscrowTransactions.askReturn",
+    "defaultMessage": "Are you sure you want to return money to {username}?"
+  },
+  {
+    "id": "MyEscrowTransactions.success",
+    "defaultMessage": "Success"
+  },
+  {
+    "id": "MyEscrowTransactions.error",
+    "defaultMessage": "Error"
+  },
+  {
+    "id": "MyEscrowTransactions.successRelease",
+    "defaultMessage": "{amount} XOM were successfully released to {username}!"
+  },
+  {
+    "id": "MyEscrowTransactions.successReturn",
+    "defaultMessage": "{amount} XOM were successfully returned to {username}!"
+  },
+  {
+    "id": "MyEscrowTransactions.noTransactions",
+    "defaultMessage": "You don't have any pending escrow transactions."
+  },
+  {
+    "id": "MyEscrowTransaction.rateSomeone",
+    "defaultMessage": "Rate {username} ({type})"
+  },
+  {
+    "id": "MyEscrowTransactions.escrow",
+    "defaultMessage": "escrow"
+  },
+  {
+    "id": "MyEscrowTransactions.buyer",
+    "defaultMessage": "buyer"
+  },
+  {
+    "id": "MyEscrowTransactions.seller",
+    "defaultMessage": "seller"
+  },
+  {
+    "id": "VotingToggle.voteUpTooltip",
+    "defaultMessage": "Click here when you are satisfied with the seller's product or performance. This will release to the seller the funds held in escrow."
+  },
+  {
+    "id": "VotingToggle.voteDownTooltip",
+    "defaultMessage": "Click here if you need or want to reject or terminate this escrow transaction. This will return to the buyer the funds held in escrow."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "RateModal.confirmation",
+    "defaultMessage": "Confirmation"
+  },
+  {
+    "id": "RateModal.ok",
+    "defaultMessage": "OK"
+  },
+  {
+    "id": "RateModal.cancel",
+    "defaultMessage": "Cancel"
+  }
+]

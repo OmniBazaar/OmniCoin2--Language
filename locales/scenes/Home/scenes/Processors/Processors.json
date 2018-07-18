@@ -1,0 +1,22 @@
+[
+  {
+    "id": "Processors.topProcessors",
+    "defaultMessage": "Active Processors"
+  },
+  {
+    "id": "Processors.standbyProcessors",
+    "defaultMessage": "Standby Processors"
+  },
+  {
+    "id": "Processors.success",
+    "defaultMessage": "Success"
+  },
+  {
+    "id": "Processors.voteSuccess",
+    "defaultMessage": "You voted successfully!"
+  },
+  {
+    "id": "Processors.error",
+    "defaultMessage": "Error"
+  }
+]

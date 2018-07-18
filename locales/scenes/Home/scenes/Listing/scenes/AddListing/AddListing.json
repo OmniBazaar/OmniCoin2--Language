@@ -1,0 +1,182 @@
+[
+  {
+    "id": "AddListing.myListings",
+    "defaultMessage": "My Listings"
+  },
+  {
+    "id": "AddListing.createListing",
+    "defaultMessage": "Create Listing"
+  },
+  {
+    "id": "AddListing.primaryInfo",
+    "defaultMessage": "Primary Info"
+  },
+  {
+    "id": "AddListing.importListings",
+    "defaultMessage": "IMPORT LISTINGS"
+  },
+  {
+    "id": "AddListing.listingTitle",
+    "defaultMessage": "Listing Title"
+  },
+  {
+    "id": "AddListing.pleaseEnter",
+    "defaultMessage": "Please enter"
+  },
+  {
+    "id": "AddListing.placing",
+    "defaultMessage": "Placing"
+  },
+  {
+    "id": "AddListing.type",
+    "defaultMessage": "Type"
+  },
+  {
+    "id": "AddListing.category",
+    "defaultMessage": "Category"
+  },
+  {
+    "id": "AddListing.subCategory",
+    "defaultMessage": "Sub-category"
+  },
+  {
+    "id": "AddListing.pricing",
+    "defaultMessage": "Pricing"
+  },
+  {
+    "id": "AddListing.currency",
+    "defaultMessage": "Currency"
+  },
+  {
+    "id": "AddListing.pricePerItem",
+    "defaultMessage": "Price per item"
+  },
+  {
+    "id": "AddListing.na",
+    "defaultMessage": "N/A"
+  },
+  {
+    "id": "AddListing.bitcoinPrice",
+    "defaultMessage": "Show Bitcoin Price"
+  },
+  {
+    "id": "AddListing.omnicoinPrice",
+    "defaultMessage": "Show Omnicoin Price"
+  },
+  {
+    "id": "AddListing.additionalInfo",
+    "defaultMessage": "Additional Info"
+  },
+  {
+    "id": "AddListing.condition",
+    "defaultMessage": "Condition"
+  },
+  {
+    "id": "AddListing.numberAvailable",
+    "defaultMessage": "Number Available"
+  },
+  {
+    "id": "AddListing.unitsOfMeasure",
+    "defaultMessage": "Units of Measure"
+  },
+  {
+    "id": "AddListing.listingDates",
+    "defaultMessage": "Listing Dates"
+  },
+  {
+    "id": "AddListing.optional",
+    "defaultMessage": "(Optional)"
+  },
+  {
+    "id": "AddListing.from",
+    "defaultMessage": "From"
+  },
+  {
+    "id": "AddListing.to",
+    "defaultMessage": "To"
+  },
+  {
+    "id": "AddListing.continuous",
+    "defaultMessage": "continuous"
+  },
+  {
+    "id": "AddListing.images",
+    "defaultMessage": "Images"
+  },
+  {
+    "id": "AddListing.listingImages",
+    "defaultMessage": "Listing Images"
+  },
+  {
+    "id": "AddListing.description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "AddListing.keywordsSearch",
+    "defaultMessage": "Keywords for search engine"
+  },
+  {
+    "id": "AddListing.keywordCommas",
+    "defaultMessage": "Keywords separated by commas"
+  },
+  {
+    "id": "AddListing.owner",
+    "defaultMessage": "Owner"
+  },
+  {
+    "id": "AddListing.ownerDetails",
+    "defaultMessage": "Owner Details"
+  },
+  {
+    "id": "AddListing.ownerName",
+    "defaultMessage": "Owner Name"
+  },
+  {
+    "id": "AddListing.preferredContact",
+    "defaultMessage": "Preferred contact"
+  },
+  {
+    "id": "AddListing.enterPreferredContact",
+    "defaultMessage": "Enter preferred contact"
+  },
+  {
+    "id": "AddListing.location",
+    "defaultMessage": "Location"
+  },
+  {
+    "id": "AddListing.country",
+    "defaultMessage": "Country"
+  },
+  {
+    "id": "AddListing.address",
+    "defaultMessage": "Address"
+  },
+  {
+    "id": "AddListing.city",
+    "defaultMessage": "City"
+  },
+  {
+    "id": "AddListing.state",
+    "defaultMessage": "State"
+  },
+  {
+    "id": "AddListing.postalCode",
+    "defaultMessage": "Postal Code"
+  },
+  {
+    "id": "AddListing.createListingCaps",
+    "defaultMessage": "CREATE LISTING"
+  },
+  {
+    "id": "AddListing.warning",
+    "defaultMessage": "Warning"
+  },
+  {
+    "id": "AddListing.ok",
+    "defaultMessage": "Ok"
+  },
+  {
+    "id": "AddListing.onlyImagesMsg",
+    "defaultMessage": "Only jpg/jpeg and png files are allowed."
+  }
+]

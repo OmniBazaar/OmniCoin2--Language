@@ -1,0 +1,34 @@
+[
+  {
+    "id": "Pagination.ariaFirst",
+    "defaultMessage": "First item"
+  },
+  {
+    "id": "Pagination.contentFirst",
+    "defaultMessage": "<< First"
+  },
+  {
+    "id": "Pagination.ariaLast",
+    "defaultMessage": "Last item"
+  },
+  {
+    "id": "Pagination.contentLast",
+    "defaultMessage": "Last >>"
+  },
+  {
+    "id": "Pagination.ariaPrev",
+    "defaultMessage": "Previous item"
+  },
+  {
+    "id": "Pagination.contentPrev",
+    "defaultMessage": "< Prev"
+  },
+  {
+    "id": "Pagination.ariaNext",
+    "defaultMessage": "Next item"
+  },
+  {
+    "id": "Pagination.contentNext",
+    "defaultMessage": "Next >"
+  }
+]

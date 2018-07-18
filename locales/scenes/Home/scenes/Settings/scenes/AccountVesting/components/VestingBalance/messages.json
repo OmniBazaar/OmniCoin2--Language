@@ -1,0 +1,66 @@
+[
+  {
+    "id": "VestingBalance.success",
+    "defaultMessage": "Success"
+  },
+  {
+    "id": "VestingBalance.error",
+    "defaultMessage": "Error"
+  },
+  {
+    "id": "VestingBalance.vestingId",
+    "defaultMessage": "VESTING #{id}"
+  },
+  {
+    "id": "VestingBalance.vbAmount",
+    "defaultMessage": "Vesting balance amount"
+  },
+  {
+    "id": "VestingBalance.cdEarned",
+    "defaultMessage": "Coin days earned"
+  },
+  {
+    "id": "VestingBalance.cdRequired",
+    "defaultMessage": "Coin days required"
+  },
+  {
+    "id": "VestingBalance.daysLeft",
+    "defaultMessage": "Days left of vesting period"
+  },
+  {
+    "id": "VestingBalance.available",
+    "defaultMessage": "Available to claim"
+  },
+  {
+    "id": "VestingBalance.days",
+    "defaultMessage": "{number} days"
+  },
+  {
+    "id": "VestingBalance.coinDays",
+    "defaultMessage": "{number} coin days"
+  },
+  {
+    "id": "VestingBalance.claim",
+    "defaultMessage": "Claim"
+  },
+  {
+    "id": "VestingBalance.none",
+    "defaultMessage": "UNKNOWN"
+  },
+  {
+    "id": "VestingBalance.escrowFee",
+    "defaultMessage": "ESCROW FEE"
+  },
+  {
+    "id": "VestingBalance.founderFee",
+    "defaultMessage": "FOUNDER FEE"
+  },
+  {
+    "id": "VestingBalance.publisherFee",
+    "defaultMessage": "PUBLISHER FEE"
+  },
+  {
+    "id": "VestingBalance.referrerFee",
+    "defaultMessage": "REFERRER FEE"
+  }
+]

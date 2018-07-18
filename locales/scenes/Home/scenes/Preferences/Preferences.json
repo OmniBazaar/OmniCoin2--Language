@@ -1,0 +1,62 @@
+[
+  {
+    "id": "Preferences.preferencesTab",
+    "defaultMessage": "Preferences"
+  },
+  {
+    "id": "Preferences.consoleTab",
+    "defaultMessage": "Console"
+  },
+  {
+    "id": "Preferences.seconds",
+    "defaultMessage": "SECONDS"
+  },
+  {
+    "id": "Preferences.xomUnit",
+    "defaultMessage": "XOM"
+  },
+  {
+    "id": "Preferences.logoutTimeout",
+    "defaultMessage": "LogOut Timeout"
+  },
+  {
+    "id": "Preferences.transactionFee",
+    "defaultMessage": "Transaction Fee"
+  },
+  {
+    "id": "Preferences.byDefaultVote",
+    "defaultMessage": "By Default Vote for"
+  },
+  {
+    "id": "Preferences.referralProgram",
+    "defaultMessage": "Participate in Referral Program"
+  },
+  {
+    "id": "Preferences.referralProgramTitle",
+    "defaultMessage": "I'd like to refer my friends to OmniBazaar"
+  },
+  {
+    "id": "Preferences.referralProgramText",
+    "defaultMessage": "REFERRER: During the initial phase of the OmniBazaar marketplace, you will receive a Referral Bonus of OmniCoins each time you refer a new user. You will also receive a referral fee (some OmniCoins) each time a user you referred buys or sells something in the OmniBazaar marketplace. Please provide the Bitcoin and Ether addresses where you wish to receive these referral fees."
+  },
+  {
+    "id": "Preferences.priorityForListing",
+    "defaultMessage": "Priority for Listings You Create"
+  },
+  {
+    "id": "Preferences.publisherFee",
+    "defaultMessage": "Publisher Fee You Receive"
+  },
+  {
+    "id": "Preferences.chargeFee",
+    "defaultMessage": "Fee You Charge to Publish Listings"
+  },
+  {
+    "id": "Preferences.update",
+    "defaultMessage": "UPDATE"
+  },
+  {
+    "id": "Preferences.commandHint",
+    "defaultMessage": "Type command and hit enter"
+  }
+]

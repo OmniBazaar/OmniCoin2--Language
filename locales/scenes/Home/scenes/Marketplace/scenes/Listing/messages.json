@@ -1,0 +1,138 @@
+[
+  {
+    "id": "Listing.seller",
+    "defaultMessage": "Seller"
+  },
+  {
+    "id": "Listing.saveListing",
+    "defaultMessage": "SAVE LISTING"
+  },
+  {
+    "id": "Listing.editListing",
+    "defaultMessage": "EDIT LISTING"
+  },
+  {
+    "id": "Listing.delete",
+    "defaultMessage": "DELETE"
+  },
+  {
+    "id": "Listing.available",
+    "defaultMessage": "Available:"
+  },
+  {
+    "id": "Listing.itemDescription",
+    "defaultMessage": "Item Description"
+  },
+  {
+    "id": "Listing.preferredContact",
+    "defaultMessage": "Preferred Contact"
+  },
+  {
+    "id": "Listing.name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "Listing.city",
+    "defaultMessage": "City"
+  },
+  {
+    "id": "Listing.postalCode",
+    "defaultMessage": "Postal Code"
+  },
+  {
+    "id": "Listing.address",
+    "defaultMessage": "Address"
+  },
+  {
+    "id": "Listing.listingDate",
+    "defaultMessage": "Listing date"
+  },
+  {
+    "id": "Listing.condition",
+    "defaultMessage": "Condition"
+  },
+  {
+    "id": "Listing.cityLocation",
+    "defaultMessage": "City of Specific Location"
+  },
+  {
+    "id": "Listing.itemPrice",
+    "defaultMessage": "Item Price"
+  },
+  {
+    "id": "Listing.selectCurrency",
+    "defaultMessage": "Select Payment Currency"
+  },
+  {
+    "id": "Listing.buyNow",
+    "defaultMessage": "BUY NOW"
+  },
+  {
+    "id": "Listing.addToFavorites",
+    "defaultMessage": "ADD TO FAVORITES"
+  },
+  {
+    "id": "Listing.report",
+    "defaultMessage": "REPORT"
+  },
+  {
+    "id": "Listing.removeFromFavorites",
+    "defaultMessage": "REMOVE FROM FAVORITES"
+  },
+  {
+    "id": "Listing.hashIsInvalid",
+    "defaultMessage": "Listing is corrupt"
+  },
+  {
+    "id": "Listing.error",
+    "defaultMessage": "Error"
+  },
+  {
+    "id": "Listing.success",
+    "defaultMessage": "Success"
+  },
+  {
+    "id": "Listing.warning",
+    "defaultMessage": "Warning"
+  },
+  {
+    "id": "Listing.deleteListingError",
+    "defaultMessage": "Error deleting listing"
+  },
+  {
+    "id": "Listing.loadListingError",
+    "defaultMessage": "Cannot load listing"
+  },
+  {
+    "id": "Listing.loadListing",
+    "defaultMessage": "Load listing"
+  },
+  {
+    "id": "Listing.outOfStock",
+    "defaultMessage": "Out of stock"
+  },
+  {
+    "id": "Listing.notInBlockchain",
+    "defaultMessage": "The listing was deleted from the blockchain."
+  },
+  {
+    "id": "Listing.reportDeleteQuestion",
+    "defaultMessage": "Are you sure you want to delete this listing?"
+  },
+  {
+    "id": "Listing.reportConfirmationQuestion",
+    "defaultMessage": "Are you sure you want to report this listing?"
+  },
+  {
+    "id": "Listing.reportListingError",
+    "defaultMessage": "Your report of this listing has been accepted."
+  },
+  {
+    "id": "Listing.reportListingSuccess",
+    "defaultMessage": "Listing is reported successfully"
+  },
+  {
+    "id": "Listing.contactSeller",
+    "defaultMessage": "Contact Seller"
+  }
+]

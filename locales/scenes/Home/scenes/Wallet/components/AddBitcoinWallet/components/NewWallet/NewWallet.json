@@ -1,0 +1,58 @@
+[
+  {
+    "id": "NewWallet.createPassword",
+    "defaultMessage": "Create Password for Wallet Access"
+  },
+  {
+    "id": "NewWallet.repeatPassword",
+    "defaultMessage": "Repeat Password for Wallet Access"
+  },
+  {
+    "id": "NewWallet.email",
+    "defaultMessage": "Email address for Restoring Access"
+  },
+  {
+    "id": "NewWallet.message",
+    "defaultMessage": "Providing email is optional, but we strongly recommending to enter it. Otherwise, you will not be able to restore access to wallet in case your password is lost."
+  },
+  {
+    "id": "NewWallet.createWallet",
+    "defaultMessage": "CREATE WALLET"
+  },
+  {
+    "id": "NewWallet.cancel",
+    "defaultMessage": "CANCEL"
+  },
+  {
+    "id": "NewWallet.enter",
+    "defaultMessage": "Please enter"
+  },
+  {
+    "id": "NewWallet.error",
+    "defaultMessage": "Error"
+  },
+  {
+    "id": "NewWallet.noMatch",
+    "defaultMessage": "Passwords do not match."
+  },
+  {
+    "id": "NewWallet.required",
+    "defaultMessage": "This field is required."
+  },
+  {
+    "id": "NewWallet.label",
+    "defaultMessage": "Label"
+  },
+  {
+    "id": "NewWallet.success",
+    "defaultMessage": "Success"
+  },
+  {
+    "id": "NewWallet.rememberGuid",
+    "defaultMessage": "Please write down protect your guid."
+  },
+  {
+    "id": "NewWallet.minLength",
+    "defaultMessage": "This field must be at least 10 characters in length."
+  }
+]

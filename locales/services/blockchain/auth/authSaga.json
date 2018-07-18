@@ -1,0 +1,18 @@
+[
+  {
+    "id": "AuthService.invalidPassword",
+    "defaultMessage": "Invalid password"
+  },
+  {
+    "id": "AuthService.noAccount",
+    "defaultMessage": "Account doesn't exist"
+  },
+  {
+    "id": "AuthService.accountExist",
+    "defaultMessage": "This account name is already taken. Please choose another one"
+  },
+  {
+    "id": "AuthService.invalidUsername",
+    "defaultMessage": "Use only lowercase alphanumeric characters, dashes and periods. Usernames must start with a letter and cannot end with a dash."
+  }
+]

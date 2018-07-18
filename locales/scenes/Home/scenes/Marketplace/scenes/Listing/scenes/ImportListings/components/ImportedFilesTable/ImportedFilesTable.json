@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ImportedFilesTable.listingType",
+    "defaultMessage": "Listing Type"
+  },
+  {
+    "id": "ImportedFilesTable.category",
+    "defaultMessage": "Category"
+  },
+  {
+    "id": "ImportedFilesTable.subCategory",
+    "defaultMessage": "Sub-Category"
+  },
+  {
+    "id": "ImportedFilesTable.contactType",
+    "defaultMessage": "Contact Type"
+  },
+  {
+    "id": "ImportedFilesTable.contactInfo",
+    "defaultMessage": "Contact Info"
+  },
+  {
+    "id": "ImportedFilesTable.title",
+    "defaultMessage": "Title"
+  },
+  {
+    "id": "ImportedFilesTable.price",
+    "defaultMessage": "Price"
+  },
+  {
+    "id": "ImportedFilesTable.currency",
+    "defaultMessage": "Currency"
+  }
+]

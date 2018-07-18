@@ -1,0 +1,46 @@
+[
+  {
+    "id": "GridTable.edit",
+    "defaultMessage": "EDIT"
+  },
+  {
+    "id": "GridTable.delete",
+    "defaultMessage": "DELETE"
+  },
+  {
+    "id": "GridTable.noData",
+    "defaultMessage": "No data found."
+  },
+  {
+    "id": "GridTable.confirmDeleteTitle",
+    "defaultMessage": "Confirm"
+  },
+  {
+    "id": "GridTable.confirmDeleteMessage",
+    "defaultMessage": "Are you sure you want to delete this listing?"
+  },
+  {
+    "id": "GridTable.cancel",
+    "defaultMessage": "Cancel"
+  },
+  {
+    "id": "GridTable.ok",
+    "defaultMessage": "OK"
+  },
+  {
+    "id": "GridTable.error",
+    "defaultMessage": "Error"
+  },
+  {
+    "id": "GridTable.success",
+    "defaultMessage": "Success"
+  },
+  {
+    "id": "GridTable.deleteListingError",
+    "defaultMessage": "An error occured while deleting the listing."
+  },
+  {
+    "id": "GridTable.deleteListingSuccess",
+    "defaultMessage": "Listing was deleted successfully."
+  }
+]

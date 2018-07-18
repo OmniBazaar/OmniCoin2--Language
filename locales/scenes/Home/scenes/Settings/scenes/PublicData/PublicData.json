@@ -1,0 +1,74 @@
+[
+  {
+    "id": "Setting.referrerTitle",
+    "defaultMessage": "I'd like to refer my friends to OmniBazaar."
+  },
+  {
+    "id": "Setting.referrerBody",
+    "defaultMessage": "REFERRER: During the initial phase of the OmniBazaar marketplace, you will receive a Referral Bonus of OmniCoins each time you refer a new user. You will also receive a referral fee (some OmniCoins) each time a user you referred buys or sells something in the OmniBazaar marketplace. Please provide the Bitcoin and Ether addresses where you wish to receive these referral fees."
+  },
+  {
+    "id": "Setting.btcAddressTitle",
+    "defaultMessage": "Bitcoin address"
+  },
+  {
+    "id": "Setting.publisherTitle",
+    "defaultMessage": "I would like to run a \"shop\" and publish listings for other users."
+  },
+  {
+    "id": "Setting.publisherBody",
+    "defaultMessage": "PUBLISHER: As a Publisher you receive OmniCoins for each new user listing published\n on your server but you must keep your server continuously running and available on the Internet. Check this box only if you have installed and configured the OmniBazaar Publisher Module (database) on this computer. You must also have either a static IP address or a DNS redirect service, such as"
+  },
+  {
+    "id": "Settings.or",
+    "defaultMessage": "or"
+  },
+  {
+    "id": "Settings.processorTitle",
+    "defaultMessage": "I would like to apply to be a Transaction Processor."
+  },
+  {
+    "id": "Settings.processorBody",
+    "defaultMessage": "TRANSACTION PROCESSOR: Transaction Processors are paid OmniCoins for processing the transactions of the other user in the marketplace. Because this is a well-paid and highly-responsible position, Transaction Processor are selected only from the most active participants in the marketplace. Referring new users, publishing listings for others, being known and trusted by other users, and having a good reputation in the marketplace all count toward being recognized as an \"active participant\" and\n qualifying to be a Transaction Processor."
+  },
+  {
+    "id": "Settings.escrowTitle",
+    "defaultMessage": "I'm willing to perform the duties of an Escrow Agent."
+  },
+  {
+    "id": "Settings.escrowBody",
+    "defaultMessage": "ESCROW: Escrow Agents help ensure that marketplace transactions are carried out honestly and fairly. When you choose to become an Escrow Agent, you agree to settle disputes that may arise between buyers and sellers. If you are called upon to settle a dispute, you must review the evidence provided by both sides and make an impartial decision about whether to return funds to the buyer or release them to the seller. You receive a fee (in OmniCoins) from every transaction for which you are chosen as the escrow agent, regardless of whether or not you are called upon to settle a dispute."
+  },
+  {
+    "id": "Settings.updateTransactionFee",
+    "defaultMessage": "Update data transaction fee:"
+  },
+  {
+    "id": "Settings.update",
+    "defaultMessage": "Update"
+  },
+  {
+    "id": "Settings.successUpdate",
+    "defaultMessage": "Updated successfully"
+  },
+  {
+    "id": "Settings.failedUpdate",
+    "defaultMessage": "Failed to update account"
+  },
+  {
+    "id": "Settings.invalidIp",
+    "defaultMessage": "IP address is invalid"
+  },
+  {
+    "id": "Settings.witnessRegisterFee",
+    "defaultMessage": "Witness registration fee is 5000 XOM. Are you sure you want to proceed?"
+  },
+  {
+    "id": "Settings.wantsToVote",
+    "defaultMessage": "Vote for yourself"
+  },
+  {
+    "id": "Settings.customDownloadAddress",
+    "defaultMessage": "Your custom OmniBazaar download address:"
+  }
+]

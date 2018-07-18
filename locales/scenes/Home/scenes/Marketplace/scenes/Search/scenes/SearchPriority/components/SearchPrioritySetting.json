@@ -1,0 +1,62 @@
+[
+  {
+    "id": "SearchPrioritySetting.specificLocation",
+    "defaultMessage": "Specific Location"
+  },
+  {
+    "id": "SearchPrioritySetting.anywhere",
+    "defaultMessage": "Anywhere"
+  },
+  {
+    "id": "SearchPrioritySetting.publisherName",
+    "defaultMessage": "Specific Publisher"
+  },
+  {
+    "id": "SearchPrioritySetting.country",
+    "defaultMessage": "Country"
+  },
+  {
+    "id": "SearchPrioritySetting.state",
+    "defaultMessage": "State"
+  },
+  {
+    "id": "SearchPrioritySetting.city",
+    "defaultMessage": "City"
+  },
+  {
+    "id": "SearchPrioritySetting.updateSuccess",
+    "defaultMessage": "Successfully updated"
+  },
+  {
+    "id": "SearchPrioritySetting.update",
+    "defaultMessage": "Update"
+  },
+  {
+    "id": "SearchPrioritySetting.publisherPlaceholder",
+    "defaultMessage": "Select publisher..."
+  },
+  {
+    "id": "SearchPrioritySetting.publisher",
+    "defaultMessage": "Publisher"
+  },
+  {
+    "id": "SearchPrioritySetting.searchPriority",
+    "defaultMessage": "Search Priority"
+  },
+  {
+    "id": "SearchPrioritySetting.keywords",
+    "defaultMessage": "Keywords for listings that you want to see"
+  },
+  {
+    "id": "SearchPrioritySetting.addKeyword",
+    "defaultMessage": "Add keyword"
+  },
+  {
+    "id": "SearchPrioritySetting.keywordLabel",
+    "defaultMessage": "Keywords"
+  },
+  {
+    "id": "SearchPrioritySetting.apply",
+    "defaultMessage": "APPLY"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "SearchResults.marketplace",
+    "defaultMessage": "Marketplace"
+  },
+  {
+    "id": "SearchResults.search",
+    "defaultMessage": "Search"
+  },
+  {
+    "id": "SearchResults.featured",
+    "defaultMessage": "Featured"
+  },
+  {
+    "id": "SearchResults.newArrivals",
+    "defaultMessage": "New Arrivals"
+  },
+  {
+    "id": "SearchResults.lowestPrice",
+    "defaultMessage": "Lowest Price"
+  },
+  {
+    "id": "SearchResults.highestPrice",
+    "defaultMessage": "Highest Price"
+  },
+  {
+    "id": "SearchResults.allCategories",
+    "defaultMessage": "All Categories"
+  },
+  {
+    "id": "SearchResults.searchResults",
+    "defaultMessage": "Search results"
+  },
+  {
+    "id": "SearchResults.searchingForPublishers",
+    "defaultMessage": "Searching for publishers"
+  },
+  {
+    "id": "SearchMenu.loadingListings",
+    "defaultMessage": "Loading listings"
+  },
+  {
+    "id": "SearchMenu.currency",
+    "defaultMessage": "Currency"
+  },
+  {
+    "id": "AddListing.category",
+    "defaultMessage": "Category"
+  },
+  {
+    "id": "SearchMenu.subCategory",
+    "defaultMessage": "Sub-category"
+  }
+]

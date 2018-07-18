@@ -1,0 +1,614 @@
+[
+  {
+    "id": "Marketplace.all",
+    "defaultMessage": "All"
+  },
+  {
+    "id": "Marketplace.featuredListings",
+    "defaultMessage": "Featured listings"
+  },
+  {
+    "id": "Marketplace.home",
+    "defaultMessage": "Home"
+  },
+  {
+    "id": "Marketplace.more",
+    "defaultMessage": "More"
+  },
+  {
+    "id": "Marketplace.about",
+    "defaultMessage": "About"
+  },
+  {
+    "id": "Marketplace.forSale",
+    "defaultMessage": "For Sale"
+  },
+  {
+    "id": "Marketplace.jobs",
+    "defaultMessage": "Jobs"
+  },
+  {
+    "id": "Marketplace.services",
+    "defaultMessage": "Services"
+  },
+  {
+    "id": "Marketplace.cryptoBazaar",
+    "defaultMessage": "CryptoBazaar"
+  },
+  {
+    "id": "Marketplace.rentals",
+    "defaultMessage": "Rentals"
+  },
+  {
+    "id": "Marketplace.community",
+    "defaultMessage": "Community"
+  },
+  {
+    "id": "Marketplace.housing",
+    "defaultMessage": "Housing"
+  },
+  {
+    "id": "Marketplace.gigs",
+    "defaultMessage": "Gigs"
+  },
+  {
+    "id": "Marketplace.myListings",
+    "defaultMessage": "My Listings"
+  },
+  {
+    "id": "Marketplace.antiques",
+    "defaultMessage": "Antiques"
+  },
+  {
+    "id": "Marketplace.appliances",
+    "defaultMessage": "Appliances"
+  },
+  {
+    "id": "Marketplace.artsCrafts",
+    "defaultMessage": "Arts / Crafts"
+  },
+  {
+    "id": "Marketplace.babyChild",
+    "defaultMessage": "Baby / Child"
+  },
+  {
+    "id": "Marketplace.barter",
+    "defaultMessage": "Barter"
+  },
+  {
+    "id": "Marketplace.beautyHealth",
+    "defaultMessage": "Beauty / Health"
+  },
+  {
+    "id": "Marketplace.bikes",
+    "defaultMessage": "Bikes"
+  },
+  {
+    "id": "Marketplace.boats",
+    "defaultMessage": "Boats"
+  },
+  {
+    "id": "Marketplace.books",
+    "defaultMessage": "Books"
+  },
+  {
+    "id": "Marketplace.business",
+    "defaultMessage": "Business"
+  },
+  {
+    "id": "Marketplace.carsTrucks",
+    "defaultMessage": "Cars / Trucks"
+  },
+  {
+    "id": "Marketplace.cdDvd",
+    "defaultMessage": "CD / DVD / VHS"
+  },
+  {
+    "id": "Marketplace.farmGarden",
+    "defaultMessage": "Farm / Garden"
+  },
+  {
+    "id": "Marketplace.free",
+    "defaultMessage": "Free"
+  },
+  {
+    "id": "Marketplace.furniture",
+    "defaultMessage": "Furniture"
+  },
+  {
+    "id": "Marketplace.garageSale",
+    "defaultMessage": "Garage Sale"
+  },
+  {
+    "id": "Marketplace.general",
+    "defaultMessage": "General"
+  },
+  {
+    "id": "Marketplace.heavyEquip",
+    "defaultMessage": "Heavy Equip"
+  },
+  {
+    "id": "Marketplace.household",
+    "defaultMessage": "Household"
+  },
+  {
+    "id": "Marketplace.jewelry",
+    "defaultMessage": "Jewelry"
+  },
+  {
+    "id": "Marketplace.materials",
+    "defaultMessage": "Materials"
+  },
+  {
+    "id": "Marketplace.motorcycles",
+    "defaultMessage": "Motorcycles"
+  },
+  {
+    "id": "Marketplace.musicalInstruments",
+    "defaultMessage": "Musical Instruments"
+  },
+  {
+    "id": "Marketplace.photoVideo",
+    "defaultMessage": "Photo / Video"
+  },
+  {
+    "id": "Marketplace.rvCampers",
+    "defaultMessage": "RVs / Campers"
+  },
+  {
+    "id": "Marketplace.automotive",
+    "defaultMessage": "Automotive"
+  },
+  {
+    "id": "Marketplace.beautyPersonal",
+    "defaultMessage": "Beauty / Personal"
+  },
+  {
+    "id": "Marketplace.computerIT",
+    "defaultMessage": "Computer / IT"
+  },
+  {
+    "id": "Marketplace.creative",
+    "defaultMessage": "Creative"
+  },
+  {
+    "id": "Marketplace.dental",
+    "defaultMessage": "Dental"
+  },
+  {
+    "id": "Marketplace.eventMgmt",
+    "defaultMessage": "Event Mgmt"
+  },
+  {
+    "id": "Marketplace.financial",
+    "defaultMessage": "Financial"
+  },
+  {
+    "id": "Marketplace.healthCare",
+    "defaultMessage": "Health Care"
+  },
+  {
+    "id": "Marketplace.laborConstruction",
+    "defaultMessage": "Labor / Construction"
+  },
+  {
+    "id": "Marketplace.legal",
+    "defaultMessage": "Legal"
+  },
+  {
+    "id": "Marketplace.lessonsCoaching",
+    "defaultMessage": "Lessons / Coaching"
+  },
+  {
+    "id": "Marketplace.marine",
+    "defaultMessage": "Marine"
+  },
+  {
+    "id": "Marketplace.realState",
+    "defaultMessage": "Real State"
+  },
+  {
+    "id": "Marketplace.skilledTrades",
+    "defaultMessage": "Skilled Trades"
+  },
+  {
+    "id": "Marketplace.smallBusiness",
+    "defaultMessage": "Small Business"
+  },
+  {
+    "id": "Marketplace.therapeutic",
+    "defaultMessage": "Therapeutic"
+  },
+  {
+    "id": "Marketplace.travelVacation",
+    "defaultMessage": "Travel / Vacation"
+  },
+  {
+    "id": "Marketplace.writingEditing",
+    "defaultMessage": "Writing / Editing"
+  },
+  {
+    "id": "Marketplace.accounting",
+    "defaultMessage": "Accounting / Finance"
+  },
+  {
+    "id": "Marketplace.adminOffice",
+    "defaultMessage": "Admin / Office"
+  },
+  {
+    "id": "Marketplace.architect",
+    "defaultMessage": "Architect / Engineer"
+  },
+  {
+    "id": "Marketplace.artMediaDesign",
+    "defaultMessage": "Art / Media / Design"
+  },
+  {
+    "id": "Marketplace.aerospace",
+    "defaultMessage": "Aerospace / Science"
+  },
+  {
+    "id": "Marketplace.businessManagement",
+    "defaultMessage": "Business Management"
+  },
+  {
+    "id": "Marketplace.customerService",
+    "defaultMessage": "Customer Service"
+  },
+  {
+    "id": "Marketplace.education",
+    "defaultMessage": "Education"
+  },
+  {
+    "id": "Marketplace.foodBev",
+    "defaultMessage": "Food / Bev / Hosp"
+  },
+  {
+    "id": "Marketplace.generalLabor",
+    "defaultMessage": "General Labor"
+  },
+  {
+    "id": "Marketplace.government",
+    "defaultMessage": "Government"
+  },
+  {
+    "id": "Marketplace.humanResources",
+    "defaultMessage": "Human Resources"
+  },
+  {
+    "id": "Marketplace.itSoftware",
+    "defaultMessage": "IT / Software / Computer"
+  },
+  {
+    "id": "Marketplace.legalParalegal",
+    "defaultMessage": "Legal / Paralegal"
+  },
+  {
+    "id": "Marketplace.manufacturing",
+    "defaultMessage": "Manufacturing"
+  },
+  {
+    "id": "Marketplace.salesMarketing",
+    "defaultMessage": "Sales / Marketing"
+  },
+  {
+    "id": "Marketplace.localOmniCoin",
+    "defaultMessage": "Local + OmniCoin"
+  },
+  {
+    "id": "Marketplace.localBitCoin",
+    "defaultMessage": "Local + Bitcoin"
+  },
+  {
+    "id": "Marketplace.localEutherium",
+    "defaultMessage": "Local + Eutherium"
+  },
+  {
+    "id": "Marketplace.localMonero",
+    "defaultMessage": "Local + Monero"
+  },
+  {
+    "id": "Marketplace.localOther",
+    "defaultMessage": "Local + Other"
+  },
+  {
+    "id": "Marketplace.omniCoinBitCoin",
+    "defaultMessage": "OmniCoin + Bitcoin"
+  },
+  {
+    "id": "Marketplace.omniCoinOther",
+    "defaultMessage": "OmniCoin + Other"
+  },
+  {
+    "id": "Marketplace.activities",
+    "defaultMessage": "Activities"
+  },
+  {
+    "id": "Marketplace.arts",
+    "defaultMessage": "Arts"
+  },
+  {
+    "id": "Marketplace.childCare",
+    "defaultMessage": "Childcare"
+  },
+  {
+    "id": "Marketplace.classes",
+    "defaultMessage": "Classes"
+  },
+  {
+    "id": "Marketplace.events",
+    "defaultMessage": "Events"
+  },
+  {
+    "id": "Marketplace.groups",
+    "defaultMessage": "Groups"
+  },
+  {
+    "id": "Marketplace.localNews",
+    "defaultMessage": "Local News"
+  },
+  {
+    "id": "Marketplace.lostFound",
+    "defaultMessage": "Lost / Found"
+  },
+  {
+    "id": "Marketplace.music",
+    "defaultMessage": "Music"
+  },
+  {
+    "id": "Marketplace.pets",
+    "defaultMessage": "Pets"
+  },
+  {
+    "id": "Marketplace.politics",
+    "defaultMessage": "Politics"
+  },
+  {
+    "id": "Marketplace.ridesharing",
+    "defaultMessage": "Ridesharing"
+  },
+  {
+    "id": "Marketplace.volunteers",
+    "defaultMessage": "Volunteers"
+  },
+  {
+    "id": "Marketplace.aptsHousing",
+    "defaultMessage": "Apts / Housing"
+  },
+  {
+    "id": "Marketplace.housingSwap",
+    "defaultMessage": "Housing Swap"
+  },
+  {
+    "id": "Marketplace.housingWanted",
+    "defaultMessage": "Housing Wanted"
+  },
+  {
+    "id": "Marketplace.officeCommercial",
+    "defaultMessage": "Office Commercial"
+  },
+  {
+    "id": "Marketplace.realEstateSale",
+    "defaultMessage": "Real Estate for Sale"
+  },
+  {
+    "id": "Marketplace.roomsToShare",
+    "defaultMessage": "Rooms to Share"
+  },
+  {
+    "id": "Marketplace.roomWanted",
+    "defaultMessage": "Room Wanted"
+  },
+  {
+    "id": "Marketplace.subletsTemporary",
+    "defaultMessage": "Sublets / Temporary"
+  },
+  {
+    "id": "Marketplace.vacation",
+    "defaultMessage": "Vacation"
+  },
+  {
+    "id": "Marketplace.babySitting",
+    "defaultMessage": "Baby Sitting"
+  },
+  {
+    "id": "Marketplace.cleaning",
+    "defaultMessage": "Cleaning"
+  },
+  {
+    "id": "Marketplace.crew",
+    "defaultMessage": "Crew"
+  },
+  {
+    "id": "Marketplace.delivery",
+    "defaultMessage": "Delivery"
+  },
+  {
+    "id": "Marketplace.escort",
+    "defaultMessage": "Escort"
+  },
+  {
+    "id": "Marketplace.houseSitting",
+    "defaultMessage": "House Siting"
+  },
+  {
+    "id": "Marketplace.handyman",
+    "defaultMessage": "Handyman"
+  },
+  {
+    "id": "Marketplace.massage",
+    "defaultMessage": "Massage"
+  },
+  {
+    "id": "Marketplace.movingHauling",
+    "defaultMessage": "Moving / Hauling"
+  },
+  {
+    "id": "Marketplace.petCare",
+    "defaultMessage": "Pet Care"
+  },
+  {
+    "id": "Marketplace.techSupport",
+    "defaultMessage": "Tech Support"
+  },
+  {
+    "id": "Marketplace.twitter",
+    "defaultMessage": "Twitter"
+  },
+  {
+    "id": "Marketplace.youtube",
+    "defaultMessage": "Youtube"
+  },
+  {
+    "id": "Marketplace.removingMiddlemen",
+    "defaultMessage": "Removing Middlemen and Bankers from E-commerce"
+  },
+  {
+    "id": "Marketplace.omniIn60",
+    "defaultMessage": "OmniBazaar in 60 seconds"
+  },
+  {
+    "id": "Marketplace.omniWalkThrough",
+    "defaultMessage": "OmniBazaar Walk-through"
+  },
+  {
+    "id": "Marketplace.forum",
+    "defaultMessage": "Forum"
+  },
+  {
+    "id": "Marketplace.documentation",
+    "defaultMessage": "Documentation"
+  },
+  {
+    "id": "Marketplace.technology",
+    "defaultMessage": "Technology"
+  },
+  {
+    "id": "Marketplace.whitePaper",
+    "defaultMessage": "White Paper"
+  },
+  {
+    "id": "Marketplace.news",
+    "defaultMessage": "News"
+  },
+  {
+    "id": "Marketplace.blockExplorer",
+    "defaultMessage": "Block Explorer"
+  },
+  {
+    "id": "Marketplace.downloadLink",
+    "defaultMessage": "Download Link"
+  },
+  {
+    "id": "Marketplace.register",
+    "defaultMessage": "Register"
+  },
+  {
+    "id": "Marketplace.telegramOmniBazaar",
+    "defaultMessage": "OmniBazaar Telegram"
+  },
+  {
+    "id": "Marketplace.telegramOmniCoin",
+    "defaultMessage": "OmniCoin Telegram"
+  },
+  {
+    "id": "Marketplace.telegram",
+    "defaultMessage": "Telegram"
+  },
+  {
+    "id": "Marketplace.reddit",
+    "defaultMessage": "Reddit"
+  },
+  {
+    "id": "Marketplace.features",
+    "defaultMessage": "Features"
+  },
+  {
+    "id": "Marketplace.theTeam",
+    "defaultMessage": "The Team"
+  },
+  {
+    "id": "Marketplace.roadmap",
+    "defaultMessage": "Roadmap"
+  },
+  {
+    "id": "Marketplace.downloads",
+    "defaultMessage": "Downloads"
+  },
+  {
+    "id": "Marketplace.tutorialVideos",
+    "defaultMessage": "Tutorial Videos"
+  },
+  {
+    "id": "Marketplace.slack",
+    "defaultMessage": "Slack"
+  },
+  {
+    "id": "Marketplace.blog",
+    "defaultMessage": "Blog"
+  },
+  {
+    "id": "Marketplace.contact",
+    "defaultMessage": "Contact"
+  },
+  {
+    "id": "Marketplace.privacyPolicy",
+    "defaultMessage": "Privacy Policy"
+  },
+  {
+    "id": "Marketplace.termsOfUse",
+    "defaultMessage": "Terms of Use"
+  },
+  {
+    "id": "Marketplace.webWallet",
+    "defaultMessage": "Web Wallet"
+  },
+  {
+    "id": "Marketplace.ominCoinExplorer",
+    "defaultMessage": "OmniCoin Explorer"
+  },
+  {
+    "id": "Marketplace.knowledgeBase",
+    "defaultMessage": "Knowledge Base"
+  },
+  {
+    "id": "Marketplace.connections",
+    "defaultMessage": "Connections"
+  },
+  {
+    "id": "Marketplace.downloadOmniBazaar",
+    "defaultMessage": "Download OmniBazaar"
+  },
+  {
+    "id": "Marketplace.newsletter",
+    "defaultMessage": "Newsletter"
+  },
+  {
+    "id": "Marketplace.recentSearches",
+    "defaultMessage": "Recent Searches"
+  },
+  {
+    "id": "Marketplace.myPurchases",
+    "defaultMessage": "My Purchases"
+  },
+  {
+    "id": "Marketplace.accountSettings",
+    "defaultMessage": "Account Settings"
+  },
+  {
+    "id": "Marketplace.favoriteListings",
+    "defaultMessage": "Favorite Listings"
+  },
+  {
+    "id": "Marketplace.newListingDefaults",
+    "defaultMessage": "New Listing Defaults"
+  },
+  {
+    "id": "Marketplace.resyncWithServer",
+    "defaultMessage": "Resync with Server"
+  },
+  {
+    "id": "Marketplace.searchPriority",
+    "defaultMessage": "Search Priority"
+  }
+]

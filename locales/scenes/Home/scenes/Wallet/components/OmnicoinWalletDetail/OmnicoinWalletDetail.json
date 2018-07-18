@@ -1,0 +1,10 @@
+[
+  {
+    "id": "OmnicoinWalletDetail.wallet",
+    "defaultMessage": "Wallet"
+  },
+  {
+    "id": "OmnicoinWalletDetail.currentBalance",
+    "defaultMessage": "Current Balance"
+  }
+]

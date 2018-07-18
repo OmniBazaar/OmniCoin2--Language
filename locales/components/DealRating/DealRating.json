@@ -1,0 +1,14 @@
+[
+  {
+    "id": "DealRating.awful",
+    "defaultMessage": "AWFUL"
+  },
+  {
+    "id": "DealRating.neutral",
+    "defaultMessage": "NEUTRAL"
+  },
+  {
+    "id": "DealRating.great",
+    "defaultMessage": "GREAT!"
+  }
+]

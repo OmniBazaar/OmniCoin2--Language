@@ -1,0 +1,30 @@
+[
+  {
+    "id": "PurchasesTable.id",
+    "defaultMessage": "ID"
+  },
+  {
+    "id": "PurchasesTable.count",
+    "defaultMessage": "Count"
+  },
+  {
+    "id": "PurchasesTable.expirationTime",
+    "defaultMessage": "Exp. time"
+  },
+  {
+    "id": "PurchasesTable.price",
+    "defaultMessage": "Price"
+  },
+  {
+    "id": "PurchasesTable.publisher",
+    "defaultMessage": "Publisher"
+  },
+  {
+    "id": "PurchasesTable.seller",
+    "defaultMessage": "Seller"
+  },
+  {
+    "id": "PurchasesTable.date",
+    "defaultMessage": "Date"
+  }
+]

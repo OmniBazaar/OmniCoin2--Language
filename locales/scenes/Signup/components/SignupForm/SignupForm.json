@@ -1,0 +1,106 @@
+[
+  {
+    "id": "SignupForm.usernameExists",
+    "defaultMessage": "That username is already taken."
+  },
+  {
+    "id": "SignupForm.noAccount",
+    "defaultMessage": "Account doesn't exist"
+  },
+  {
+    "id": "SignupForm.fieldRequired",
+    "defaultMessage": "This field is required."
+  },
+  {
+    "id": "SignupForm.passwordDoesntMatch",
+    "defaultMessage": "Passwords don't match."
+  },
+  {
+    "id": "SignupForm.copy",
+    "defaultMessage": "Copy password"
+  },
+  {
+    "id": "SignupForm.passwordCopied",
+    "defaultMessage": "Password copied!"
+  },
+  {
+    "id": "SignupForm.referrerName",
+    "defaultMessage": "Who referred you?"
+  },
+  {
+    "id": "SignupForm.accountName",
+    "defaultMessage": "Choose an account name"
+  },
+  {
+    "id": "SignupForm.confirmPassword",
+    "defaultMessage": "Confirm password"
+  },
+  {
+    "id": "SignupForm.agree",
+    "defaultMessage": "I agree with the OmniBazaar"
+  },
+  {
+    "id": "SignupForm.termsAndCond",
+    "defaultMessage": "Terms & Conditions"
+  },
+  {
+    "id": "SignupForm.signup",
+    "defaultMessage": "Sign up"
+  },
+  {
+    "id": "SignupForm.signin",
+    "defaultMessage": "Sign in"
+  },
+  {
+    "id": "SignupForm.haveAccount",
+    "defaultMessage": "Already have an account?"
+  },
+  {
+    "id": "SignupForm.error",
+    "defaultMessage": "Error"
+  },
+  {
+    "id": "SignupForm.searchPriority",
+    "defaultMessage": "Marketplace Search priority"
+  },
+  {
+    "id": "SignupForm.specificLocation",
+    "defaultMessage": "Specific Location"
+  },
+  {
+    "id": "SignupForm.anywhere",
+    "defaultMessage": "Anywhere"
+  },
+  {
+    "id": "SignupForm.country",
+    "defaultMessage": "Your Country"
+  },
+  {
+    "id": "SignupForm.state",
+    "defaultMessage": "Your State"
+  },
+  {
+    "id": "SignupForm.city",
+    "defaultMessage": "Your City"
+  },
+  {
+    "id": "SignupForm.keywords",
+    "defaultMessage": "Provide keywords for listing you want to see"
+  },
+  {
+    "id": "SignupForm.addKeyword",
+    "defaultMessage": "Add keyword"
+  },
+  {
+    "id": "SignupForm.done",
+    "defaultMessage": "Done"
+  },
+  {
+    "id": "SignupForm.savePassword1",
+    "defaultMessage": "IMPORTANT: This password is the ONLY key to your OmniCoin wallet."
+  },
+  {
+    "id": "SignupForm.savePassword2",
+    "defaultMessage": "Save and protect it. If lost, it cannot be recovered."
+  }
+]

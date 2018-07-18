@@ -1,0 +1,34 @@
+[
+  {
+    "id": "PrivateData.notPublisherYet",
+    "defaultMessage": "You are not a publisher yet."
+  },
+  {
+    "id": "PrivateData.publisherNeedInfo",
+    "defaultMessage": "We need the following information so that we can connect you to a Publisher of listings that align with your interests."
+  },
+  {
+    "id": "PrivateData.updateSuccess",
+    "defaultMessage": "Successfully updated"
+  },
+  {
+    "id": "PrivateData.update",
+    "defaultMessage": "Update"
+  },
+  {
+    "id": "PrivateData.email",
+    "defaultMessage": "Email"
+  },
+  {
+    "id": "PrivateData.firstName",
+    "defaultMessage": "First name"
+  },
+  {
+    "id": "PrivateData.lastName",
+    "defaultMessage": "Last name"
+  },
+  {
+    "id": "PrivateData.website",
+    "defaultMessage": "Website"
+  }
+]

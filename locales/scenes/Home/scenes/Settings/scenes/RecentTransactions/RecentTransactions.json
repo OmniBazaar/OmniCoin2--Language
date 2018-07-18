@@ -1,0 +1,74 @@
+[
+  {
+    "id": "Settings.date",
+    "defaultMessage": "Date"
+  },
+  {
+    "id": "Settings.memo",
+    "defaultMessage": "Memo"
+  },
+  {
+    "id": "Settings.amount",
+    "defaultMessage": "Amount"
+  },
+  {
+    "id": "Settings.fee",
+    "defaultMessage": "Fee"
+  },
+  {
+    "id": "Settings.balance",
+    "defaultMessage": "Balance"
+  },
+  {
+    "id": "Settings.details",
+    "defaultMessage": "DETAILS"
+  },
+  {
+    "id": "Settings.type",
+    "defaultMessage": "Status"
+  },
+  {
+    "id": "Settings.transfer",
+    "defaultMessage": "TRANSFER"
+  },
+  {
+    "id": "Settings.pending",
+    "defaultMessage": "PENDING"
+  },
+  {
+    "id": "Settings.return",
+    "defaultMessage": "RETURNED"
+  },
+  {
+    "id": "Settings.release",
+    "defaultMessage": "RELEASED"
+  },
+  {
+    "id": "Settings.createListing",
+    "defaultMessage": "LISTING"
+  },
+  {
+    "id": "Settings.updateListing",
+    "defaultMessage": "LISTING"
+  },
+  {
+    "id": "Settings.deleteListing",
+    "defaultMessage": "LISTING"
+  },
+  {
+    "id": "Settings.updateAccount",
+    "defaultMessage": "ACCOUNT"
+  },
+  {
+    "id": "Settings.referralBonus",
+    "defaultMessage": "REFERRAL BONUS"
+  },
+  {
+    "id": "Settings.welcomeBonus",
+    "defaultMessage": "WELCOME BONUS"
+  },
+  {
+    "id": "Settings.saleBonus",
+    "defaultMessage": "SALE BONUS"
+  }
+]

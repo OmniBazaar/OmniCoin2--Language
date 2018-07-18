@@ -1,0 +1,346 @@
+[
+  {
+    "id": "Marketplace.welcome",
+    "defaultMessage": "Welcome to OmniBazaar"
+  },
+  {
+    "id": "Marketplace.seeAll",
+    "defaultMessage": "SEE ALL"
+  },
+  {
+    "id": "Marketplace.overview",
+    "defaultMessage": "Overview"
+  },
+  {
+    "id": "Marketplace.versatility",
+    "defaultMessage": "Versatility"
+  },
+  {
+    "id": "Marketplace.rewards",
+    "defaultMessage": "Rewards"
+  },
+  {
+    "id": "Marketplace.benefits",
+    "defaultMessage": "Benefits"
+  },
+  {
+    "id": "Marketplace.fees",
+    "defaultMessage": "Fees"
+  },
+  {
+    "id": "Marketplace.categories",
+    "defaultMessage": "Categories"
+  },
+  {
+    "id": "Marketplace.viewAll",
+    "defaultMessage": "VIEW ALL"
+  },
+  {
+    "id": "Marketplace.getOmniCoins",
+    "defaultMessage": "Get Some OmniCoins"
+  },
+  {
+    "id": "Marketplace.getOmniCoinsText",
+    "defaultMessage": "See how we are enabling e-commerce without middleman and payment without bankers. OmniBazaar is an Internet marketplace \"of the people, by the people, for the people\""
+  },
+  {
+    "id": "Marketplace.exchangeOne",
+    "defaultMessage": "EXCHANGE ONE"
+  },
+  {
+    "id": "Marketplace.exchangeTwo",
+    "defaultMessage": "EXCHANGE TWO"
+  },
+  {
+    "id": "Marketplace.whatYouCanSell",
+    "defaultMessage": "What You Can Buy/Sell on OmniBazaar"
+  },
+  {
+    "id": "Marketplace.productsServices",
+    "defaultMessage": "Products and Services"
+  },
+  {
+    "id": "Marketplace.personalItems",
+    "defaultMessage": "Personal Items"
+  },
+  {
+    "id": "Marketplace.professionalServices",
+    "defaultMessage": "Professional Services"
+  },
+  {
+    "id": "Marketplace.gigsServices",
+    "defaultMessage": "Gigs and Contract Services"
+  },
+  {
+    "id": "Marketplace.localCrypto",
+    "defaultMessage": "Local Crypocurrencies"
+  },
+  {
+    "id": "Marketplace.overstockUnused",
+    "defaultMessage": "Over-stock or Unused Inventory"
+  },
+  {
+    "id": "Marketplace.likeAmazon",
+    "defaultMessage": "(like Amazon or Alibaba)"
+  },
+  {
+    "id": "Marketplace.likeEbay",
+    "defaultMessage": "(like eBay, Etsy or CraigsList)"
+  },
+  {
+    "id": "Marketplace.likeUpwork",
+    "defaultMessage": "(like UpWork, Freelancer or Guru)"
+  },
+  {
+    "id": "Marketplace.likeFiverr",
+    "defaultMessage": "(like Fiverr, GigBucks or Zeerk)"
+  },
+  {
+    "id": "Marketplace.likeLocalBitcoins",
+    "defaultMessage": "(like LocalBitcoins or Wall of Coins)"
+  },
+  {
+    "id": "Marketplace.likeBarter",
+    "defaultMessage": "(like barter networks)"
+  },
+  {
+    "id": "Marketplace.incentivesBonuses",
+    "defaultMessage": "OmniCoin (XOM) Incentives and Bonuses"
+  },
+  {
+    "id": "Marketplace.earlyAdopters",
+    "defaultMessage": "Early Adopters"
+  },
+  {
+    "id": "Marketplace.registrationAir",
+    "defaultMessage": "Registration (\"Air-drop\")"
+  },
+  {
+    "id": "Marketplace.upTo",
+    "defaultMessage": "Up to"
+  },
+  {
+    "id": "Marketplace.referralsNewUser",
+    "defaultMessage": "Referrals (Each new user)"
+  },
+  {
+    "id": "Marketplace.firstSale",
+    "defaultMessage": "First Sale (Each new buyer)"
+  },
+  {
+    "id": "Marketplace.continuing",
+    "defaultMessage": "Continuing"
+  },
+  {
+    "id": "Marketplace.transactionProcessing",
+    "defaultMessage": "Transaction Processing (\"Mining\")"
+  },
+  {
+    "id": "Marketplace.perBlock",
+    "defaultMessage": "per block"
+  },
+  {
+    "id": "Marketplace.referralsEachTransaction",
+    "defaultMessage": "Referrals (Each transaction)"
+  },
+  {
+    "id": "Marketplace.perSale",
+    "defaultMessage": "per sale"
+  },
+  {
+    "id": "Marketplace.proxyListing",
+    "defaultMessage": "Proxy Listing Publisher"
+  },
+  {
+    "id": "Marketplace.perListing",
+    "defaultMessage": "per listing"
+  },
+  {
+    "id": "Marketplace.mandatoryFees",
+    "defaultMessage": "Mandatory Fees:"
+  },
+  {
+    "id": "Marketplace.monthlyFees",
+    "defaultMessage": "Monthly Fees:"
+  },
+  {
+    "id": "Marketplace.listingFees",
+    "defaultMessage": "Listing Fees:"
+  },
+  {
+    "id": "Marketplace.transactionFees",
+    "defaultMessage": "Transaction Fees:"
+  },
+  {
+    "id": "Marketplace.softwareCost",
+    "defaultMessage": "Software Cost:"
+  },
+  {
+    "id": "Marketplace.feesNote1",
+    "defaultMessage": "When we say FREE, we meant it. OmniBazaar can be 100% free if you don't use any of the optional services."
+  },
+  {
+    "id": "Marketplace.optionalServices",
+    "defaultMessage": "Optional Services:"
+  },
+  {
+    "id": "Marketplace.affiliateProgram",
+    "defaultMessage": "Affiliate Program:"
+  },
+  {
+    "id": "Marketplace.priorityListing",
+    "defaultMessage": "Priority Listing Placement:"
+  },
+  {
+    "id": "Marketplace.userSelectable",
+    "defaultMessage": "(User Selectable)"
+  },
+  {
+    "id": "Marketplace.escrowAgents",
+    "defaultMessage": "Escrow Agents:"
+  },
+  {
+    "id": "Marketplace.marketDrivenPrice",
+    "defaultMessage": "(Market-Driven Price)"
+  },
+  {
+    "id": "Marketplace.feesNote2",
+    "defaultMessage": "You pay these fees only if you use the services. If you provide these services, you earn 100% of the fees."
+  },
+  {
+    "id": "Marketplace.marketsLabel",
+    "defaultMessage": "Amazon, eBay, Alibaba, Rakutan, Etsy, etc."
+  },
+  {
+    "id": "Marketplace.highSellerFees",
+    "defaultMessage": "High Seller Fees"
+  },
+  {
+    "id": "Marketplace.includingPayment1",
+    "defaultMessage": "(10-20% including payment processing)"
+  },
+  {
+    "id": "Marketplace.authorizationControl",
+    "defaultMessage": "Authorization control"
+  },
+  {
+    "id": "Marketplace.tracksEvery",
+    "defaultMessage": "Tracks every click (\"big data\")"
+  },
+  {
+    "id": "Marketplace.pushesContent",
+    "defaultMessage": "Pushes content/advertising"
+  },
+  {
+    "id": "Marketplace.requiresBank",
+    "defaultMessage": "Requires a bank account"
+  },
+  {
+    "id": "Marketplace.contentCensorship",
+    "defaultMessage": "Content censorship"
+  },
+  {
+    "id": "Marketplace.lowerFees",
+    "defaultMessage": "90-100% Lower Fees"
+  },
+  {
+    "id": "Marketplace.includingPayment2",
+    "defaultMessage": "(0-1.5% including payment processing)"
+  },
+  {
+    "id": "Marketplace.communityOwned",
+    "defaultMessage": "Community owned and operated"
+  },
+  {
+    "id": "Marketplace.noTrackingUser",
+    "defaultMessage": "No tracking of user information"
+  },
+  {
+    "id": "Marketplace.listingsYouChoose",
+    "defaultMessage": "See only the listings you choose"
+  },
+  {
+    "id": "Marketplace.useBitcoin",
+    "defaultMessage": "Use Bitcoin and Omnicoin"
+  },
+  {
+    "id": "Marketplace.communityPolicing",
+    "defaultMessage": "Community policing"
+  },
+  {
+    "id": "Marketplace.omniBazaarFeatures",
+    "defaultMessage": "OmniBazaar Features and Benefits"
+  },
+  {
+    "id": "Marketplace.omniBazaarFeature",
+    "defaultMessage": "OmniBazaar Feature"
+  },
+  {
+    "id": "Marketplace.yourBenefit",
+    "defaultMessage": "Your Benefit"
+  },
+  {
+    "id": "Marketplace.lowerPlatformFees",
+    "defaultMessage": "90% lower platform fees"
+  },
+  {
+    "id": "Marketplace.moreProfit",
+    "defaultMessage": "More profit for sellers"
+  },
+  {
+    "id": "Marketplace.lowerPricesBuyers",
+    "defaultMessage": "Lower prices for buyers"
+  },
+  {
+    "id": "Marketplace.userOwned",
+    "defaultMessage": "Lower prices for buyers"
+  },
+  {
+    "id": "Marketplace.shopWithoutMiddlemen",
+    "defaultMessage": "Shop without middlemen"
+  },
+  {
+    "id": "Marketplace.payWithoutBank",
+    "defaultMessage": "Pay without bankers"
+  },
+  {
+    "id": "Marketplace.noTrackUserInfo",
+    "defaultMessage": "No tracking of user information"
+  },
+  {
+    "id": "Marketplace.noPushMarketing",
+    "defaultMessage": "No \"push\" marketing"
+  },
+  {
+    "id": "Marketplace.morePrivacy",
+    "defaultMessage": "More privacy"
+  },
+  {
+    "id": "Marketplace.paymentsAreSecure",
+    "defaultMessage": "Payments are secure"
+  },
+  {
+    "id": "Marketplace.noChargeBacks",
+    "defaultMessage": "No charge-backs"
+  },
+  {
+    "id": "Marketplace.usersProtectFromIllegal",
+    "defaultMessage": "Users protect the marketplace from illegal listings."
+  },
+  {
+    "id": "Marketplace.priorityListingsAvailable",
+    "defaultMessage": "Priority listings available"
+  },
+  {
+    "id": "Marketplace.makeImportantListings",
+    "defaultMessage": "You can make important listings stand out."
+  },
+  {
+    "id": "SearchResults.searchingForPublishers",
+    "defaultMessage": "Searching for publishers"
+  },
+  {
+    "id": "SearchMenu.loadingListings",
+    "defaultMessage": "Loading listings"
+  }
+]

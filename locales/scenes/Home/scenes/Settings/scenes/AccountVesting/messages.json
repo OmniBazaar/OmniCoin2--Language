@@ -1,0 +1,14 @@
+[
+  {
+    "id": "AccountVesting.success",
+    "defaultMessage": "Success"
+  },
+  {
+    "id": "AccountVesting.error",
+    "defaultMessage": "Error"
+  },
+  {
+    "id": "AccountVesting.noVestings",
+    "defaultMessage": "You have no vesting balances."
+  }
+]

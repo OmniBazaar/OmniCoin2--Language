@@ -1,0 +1,34 @@
+[
+  {
+    "id": "Settings.firstItem",
+    "defaultMessage": "First item"
+  },
+  {
+    "id": "Settings.lastItem",
+    "defaultMessage": "Last item"
+  },
+  {
+    "id": "Settings.previousItem",
+    "defaultMessage": "Previous item"
+  },
+  {
+    "id": "Settings.nextItem",
+    "defaultMessage": "Next item"
+  },
+  {
+    "id": "Settings.first",
+    "defaultMessage": "First"
+  },
+  {
+    "id": "Settings.last",
+    "defaultMessage": "Last"
+  },
+  {
+    "id": "Settings.prev",
+    "defaultMessage": "Prev"
+  },
+  {
+    "id": "Settings.next",
+    "defaultMessage": "Next"
+  }
+]

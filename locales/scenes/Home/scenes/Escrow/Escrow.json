@@ -1,0 +1,18 @@
+[
+  {
+    "id": "Escrow.escrow",
+    "defaultMessage": "Escrow"
+  },
+  {
+    "id": "Escrow.transactions",
+    "defaultMessage": "My Escrow Transactions"
+  },
+  {
+    "id": "Escrow.agents",
+    "defaultMessage": "My Escrow Agents"
+  },
+  {
+    "id": "Escrow.settings",
+    "defaultMessage": "My Escrow Settings"
+  }
+]

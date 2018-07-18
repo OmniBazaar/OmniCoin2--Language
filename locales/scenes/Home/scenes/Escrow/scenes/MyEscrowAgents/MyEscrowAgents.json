@@ -1,0 +1,30 @@
+[
+  {
+    "id": "MyEscrowAgents.search",
+    "defaultMessage": "Search"
+  },
+  {
+    "id": "MyEscrowAgents.clear",
+    "defaultMessage": "Clear"
+  },
+  {
+    "id": "MyEscrowAgents.approveChanges",
+    "defaultMessage": "Approve changes"
+  },
+  {
+    "id": "MyEscrowAgents.user",
+    "defaultMessage": "User"
+  },
+  {
+    "id": "MyEscrowAgents.approve",
+    "defaultMessage": "Approve"
+  },
+  {
+    "id": "MyEscrowAgents.agentsApproved",
+    "defaultMessage": "Agents successfully approved"
+  },
+  {
+    "id": "MyEscrowAgents.error",
+    "defaultMessage": "Error"
+  }
+]

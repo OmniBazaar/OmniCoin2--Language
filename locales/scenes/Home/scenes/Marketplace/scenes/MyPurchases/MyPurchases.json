@@ -1,0 +1,10 @@
+[
+  {
+    "id": "MyPurchases.bought",
+    "defaultMessage": "BOUGHT"
+  },
+  {
+    "id": "MyPurchases.sold",
+    "defaultMessage": "SOLD"
+  }
+]

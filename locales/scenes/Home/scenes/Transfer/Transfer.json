@@ -1,0 +1,134 @@
+[
+  {
+    "id": "Transfer.accountDoNotExist",
+    "defaultMessage": "Account doesn't exist."
+  },
+  {
+    "id": "Transfer.transfer",
+    "defaultMessage": "Transfer"
+  },
+  {
+    "id": "Transfer.from",
+    "defaultMessage": "From"
+  },
+  {
+    "id": "Transfer.to",
+    "defaultMessage": "To"
+  },
+  {
+    "id": "Transfer.TRANSFER",
+    "defaultMessage": "TRANSFER"
+  },
+  {
+    "id": "Transfer.fieldRequired",
+    "defaultMessage": "This field is required."
+  },
+  {
+    "id": "Transfer.accountNameOrPublicKey",
+    "defaultMessage": "Account Name or Public Key"
+  },
+  {
+    "id": "Transfer.pleaseEnter",
+    "defaultMessage": "Please enter"
+  },
+  {
+    "id": "Transfer.amount",
+    "defaultMessage": "Amount"
+  },
+  {
+    "id": "Transfer.reputation",
+    "defaultMessage": "Rate your transaction."
+  },
+  {
+    "id": "Transfer.memo",
+    "defaultMessage": "Memo"
+  },
+  {
+    "id": "Transfer.transferSecurity",
+    "defaultMessage": "Transfer Security"
+  },
+  {
+    "id": "Transfer.useEscrowService",
+    "defaultMessage": "Use SecureSend (Escrow Service)."
+  },
+  {
+    "id": "Transfer.successUpdate",
+    "defaultMessage": "Transfer successful."
+  },
+  {
+    "id": "Transfer.failedUpdate",
+    "defaultMessage": "Transfer failed."
+  },
+  {
+    "id": "Transfer.selectEscrow",
+    "defaultMessage": "Select escrow"
+  },
+  {
+    "id": "Transfer.transferToEscrow",
+    "defaultMessage": "Transfer to escrow"
+  },
+  {
+    "id": "Transfer.expirationTime",
+    "defaultMessage": "Expiration time"
+  },
+  {
+    "id": "Transfer.oneDay",
+    "defaultMessage": "1 day"
+  },
+  {
+    "id": "Transfer.threeDays",
+    "defaultMessage": "3 days"
+  },
+  {
+    "id": "Transfer.oneWeek",
+    "defaultMessage": "1 week"
+  },
+  {
+    "id": "Transfer.twoWeeks",
+    "defaultMessage": "2 weeks"
+  },
+  {
+    "id": "Transfer.oneMonth",
+    "defaultMessage": "1 month"
+  },
+  {
+    "id": "Transfer.threeMonths",
+    "defaultMessage": "3 months"
+  },
+  {
+    "id": "Transfer.escrowFee",
+    "defaultMessage": "Escrow Fee: 1%({xomAmount} XOM)"
+  },
+  {
+    "id": "Transfer.transferToEscrowLabel",
+    "defaultMessage": "Funds will be kept in an escrow account."
+  },
+  {
+    "id": "Transfer.warning",
+    "defaultMessage": "Warning"
+  },
+  {
+    "id": "Transfer.escrowNotFound",
+    "defaultMessage": "You don't any have any approved escrow agents in common with the specified account. Go to the \"Escrow\" tab and approve some additional escrow agents."
+  },
+  {
+    "id": "Transfer.numberRequired",
+    "defaultMessage": "Number required"
+  },
+  {
+    "id": "Transfer.currency",
+    "defaultMessage": "Select Currency"
+  },
+  {
+    "id": "Transfer.selectWallet",
+    "defaultMessage": "Select Wallet"
+  },
+  {
+    "id": "Transfer.transactionID",
+    "defaultMessage": "Transaction ID"
+  },
+  {
+    "id": "Transfer.maxLength",
+    "defaultMessage": "Memo must be less than 150 characters."
+  }
+]

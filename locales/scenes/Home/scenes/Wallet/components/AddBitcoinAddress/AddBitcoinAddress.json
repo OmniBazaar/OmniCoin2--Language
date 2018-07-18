@@ -1,0 +1,18 @@
+[
+  {
+    "id": "AddBitcoinAddress.label",
+    "defaultMessage": "Label (optional)"
+  },
+  {
+    "id": "AddBitcoinAddress.createWallet",
+    "defaultMessage": "ADD"
+  },
+  {
+    "id": "AddBitcoinAddress.cancel",
+    "defaultMessage": "CANCEL"
+  },
+  {
+    "id": "AddBitcoinAddress.pleaseEnter",
+    "defaultMessage": "Please enter"
+  }
+]

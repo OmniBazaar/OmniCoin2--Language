@@ -1,0 +1,14 @@
+[
+  {
+    "id": "GridTable.edit",
+    "defaultMessage": "EDIT"
+  },
+  {
+    "id": "GridTable.delete",
+    "defaultMessage": "DELETE"
+  },
+  {
+    "id": "GridTable.noData",
+    "defaultMessage": "No data found."
+  }
+]

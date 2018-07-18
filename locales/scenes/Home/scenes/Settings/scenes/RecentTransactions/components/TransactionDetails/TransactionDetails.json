@@ -1,0 +1,66 @@
+[
+  {
+    "id": "Settings.close",
+    "defaultMessage": "CLOSE"
+  },
+  {
+    "id": "Settings.operations",
+    "defaultMessage": "Operations"
+  },
+  {
+    "id": "Settings.timeStamp",
+    "defaultMessage": "TimeStamp"
+  },
+  {
+    "id": "Settings.transaction",
+    "defaultMessage": "Transaction"
+  },
+  {
+    "id": "Settings.block",
+    "defaultMessage": "Block"
+  },
+  {
+    "id": "Settings.transactionDetails",
+    "defaultMessage": "Transaction Details"
+  },
+  {
+    "id": "Settings.withdraw",
+    "defaultMessage": "Withdraw"
+  },
+  {
+    "id": "Settings.deposit",
+    "defaultMessage": "Deposit"
+  },
+  {
+    "id": "Settings.amountOfAsset",
+    "defaultMessage": "Amount of asset,"
+  },
+  {
+    "id": "Settings.next",
+    "defaultMessage": "Next"
+  },
+  {
+    "id": "Settings.feeDetail",
+    "defaultMessage": "Fee: {fee} XOM"
+  },
+  {
+    "id": "Settings.omnibazaarFeeDetail",
+    "defaultMessage": "OmniBazaar fee: {fee} XOM"
+  },
+  {
+    "id": "Settings.escrowFeeDetail",
+    "defaultMessage": "Escrow fee: {fee} XOM"
+  },
+  {
+    "id": "Settings.referrerBuyerFee",
+    "defaultMessage": "Buyer's Referrer fee: {fee} XOM"
+  },
+  {
+    "id": "Settings.referrerSellerFee",
+    "defaultMessage": "Sellers's Referrer fee: {fee} XOM"
+  },
+  {
+    "id": "Settings.publisherFee",
+    "defaultMessage": "Publisher fee: {fee} XOM"
+  }
+]

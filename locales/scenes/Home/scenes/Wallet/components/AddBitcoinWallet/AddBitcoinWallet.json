@@ -1,0 +1,10 @@
+[
+  {
+    "id": "AddBitcoinWallet.existingWallet",
+    "defaultMessage": "Open an Existing Blockchain.com Wallet"
+  },
+  {
+    "id": "AddBitcoinWallet.newWallet",
+    "defaultMessage": "New Wallet"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "SettingsMenu.accountSettings",
+    "defaultMessage": "Account Settings"
+  },
+  {
+    "id": "SettingsMenu.preferences",
+    "defaultMessage": "Preferences"
+  },
+  {
+    "id": "SettingsMenu.logout",
+    "defaultMessage": "Logout"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ConfirmationModal.confirmation",
+    "defaultMessage": "Confirmation"
+  },
+  {
+    "id": "ConfirmationModal.approve",
+    "defaultMessage": "OK"
+  },
+  {
+    "id": "ConfirmationModal.cancel",
+    "defaultMessage": "CANCEL"
+  }
+]

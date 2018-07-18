@@ -1,0 +1,18 @@
+[
+  {
+    "id": "Marketplace.featured",
+    "defaultMessage": "Featured"
+  },
+  {
+    "id": "Marketplace.newArrivals",
+    "defaultMessage": "New Arrivals"
+  },
+  {
+    "id": "Marketplace.lowestPrice",
+    "defaultMessage": "Lowest Price"
+  },
+  {
+    "id": "Marketplace.highestPrice",
+    "defaultMessage": "Highest Price"
+  }
+]

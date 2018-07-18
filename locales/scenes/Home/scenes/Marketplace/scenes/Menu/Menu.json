@@ -1,0 +1,38 @@
+[
+  {
+    "id": "Menu.addListing",
+    "defaultMessage": "ADD LISTING"
+  },
+  {
+    "id": "Menu.community",
+    "defaultMessage": "Community"
+  },
+  {
+    "id": "Menu.housing",
+    "defaultMessage": "Housing"
+  },
+  {
+    "id": "Menu.gigs",
+    "defaultMessage": "Gigs"
+  },
+  {
+    "id": "Menu.quickLinks",
+    "defaultMessage": "Quick Links"
+  },
+  {
+    "id": "Menu.support",
+    "defaultMessage": "Support"
+  },
+  {
+    "id": "Menu.usefulLinks",
+    "defaultMessage": "Useful Links"
+  },
+  {
+    "id": "Menu.omniLink",
+    "defaultMessage": "omnibazaar.com"
+  },
+  {
+    "id": "Menu.recent",
+    "defaultMessage": "Recent"
+  }
+]

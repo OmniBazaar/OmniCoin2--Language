@@ -1,0 +1,10 @@
+[
+  {
+    "id": "MyListingsTable.edit",
+    "defaultMessage": "EDIT"
+  },
+  {
+    "id": "MyListingsTable.delete",
+    "defaultMessage": "DELETE"
+  }
+]

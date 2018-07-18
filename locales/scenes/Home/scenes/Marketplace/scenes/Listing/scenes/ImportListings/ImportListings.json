@@ -1,0 +1,70 @@
+[
+  {
+    "id": "ImportListings.myListings",
+    "defaultMessage": "My Listings"
+  },
+  {
+    "id": "ImportListings.importListings",
+    "defaultMessage": "Import Listings"
+  },
+  {
+    "id": "ImportListings.files",
+    "defaultMessage": "Files"
+  },
+  {
+    "id": "ImportListings.listingsVendor",
+    "defaultMessage": "Listings Vendor"
+  },
+  {
+    "id": "ImportListings.filesToImport",
+    "defaultMessage": "Files to Import"
+  },
+  {
+    "id": "ImportListings.addFiles",
+    "defaultMessage": "ADD FILES"
+  },
+  {
+    "id": "ImportListings.removeAll",
+    "defaultMessage": "REMOVE ALL"
+  },
+  {
+    "id": "ImportListings.importedData",
+    "defaultMessage": "Imported Data"
+  },
+  {
+    "id": "ImportListings.warning",
+    "defaultMessage": "Warning"
+  },
+  {
+    "id": "ImportListings.ok",
+    "defaultMessage": "Okay"
+  },
+  {
+    "id": "ImportListings.onlyTextFileMsg",
+    "defaultMessage": "Only TXT files are allowed."
+  },
+  {
+    "id": "AddListing.selectPublisher",
+    "defaultMessage": "Select publisher"
+  },
+  {
+    "id": "ImportListings.errorTitle",
+    "defaultMessage": "Error"
+  },
+  {
+    "id": "ImportListings.successTitle",
+    "defaultMessage": "Success"
+  },
+  {
+    "id": "ImportListings.success",
+    "defaultMessage": "The file has been imported successfully."
+  },
+  {
+    "id": "ImportListings.publisherRequired",
+    "defaultMessage": "A publisher must be selected."
+  },
+  {
+    "id": "ImportListings.missingDefaults",
+    "defaultMessage": "Please enter your Listing Default values to proceed..."
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "Categories.community",
+    "defaultMessage": "Community"
+  },
+  {
+    "id": "Categories.housing",
+    "defaultMessage": "Housing"
+  },
+  {
+    "id": "Categories.forSale",
+    "defaultMessage": "For Sale"
+  },
+  {
+    "id": "Categories.jobs",
+    "defaultMessage": "Jobs"
+  },
+  {
+    "id": "Categories.services",
+    "defaultMessage": "Services"
+  },
+  {
+    "id": "Categories.gigs",
+    "defaultMessage": "Gigs"
+  },
+  {
+    "id": "Categories.cryptoBazaar",
+    "defaultMessage": "CryptoBazaar"
+  }
+]

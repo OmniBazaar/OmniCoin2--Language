@@ -1,0 +1,90 @@
+[
+  {
+    "id": "ListingsDefaults.myListings",
+    "defaultMessage": "My Listings"
+  },
+  {
+    "id": "ListingsDefaults.listingDefaults",
+    "defaultMessage": "Listing Defaults"
+  },
+  {
+    "id": "ListingsDefaults.defaultsNote",
+    "defaultMessage": "Information you enter here will be pre-populated into new listings you create."
+  },
+  {
+    "id": "ListingsDefaults.type",
+    "defaultMessage": "Type"
+  },
+  {
+    "id": "ListingsDefaults.category",
+    "defaultMessage": "Category"
+  },
+  {
+    "id": "ListingsDefaults.subCategory",
+    "defaultMessage": "Sub-category"
+  },
+  {
+    "id": "ListingsDefaults.localCurrency",
+    "defaultMessage": "Local Currency"
+  },
+  {
+    "id": "ListingsDefaults.selectCoin",
+    "defaultMessage": "Select Coin"
+  },
+  {
+    "id": "ListingsDefaults.addBitcoinPrice",
+    "defaultMessage": "Show Bitcoin Price"
+  },
+  {
+    "id": "ListingsDefaults.addOmnicoinPrice",
+    "defaultMessage": "Show Omnicoin Price"
+  },
+  {
+    "id": "ListingsDefaults.description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "ListingsDefaults.pleaseEnter",
+    "defaultMessage": "Please enter"
+  },
+  {
+    "id": "ListingsDefaults.listingImages",
+    "defaultMessage": "Listing Images"
+  },
+  {
+    "id": "ListingsDefaults.optional",
+    "defaultMessage": "(Optional)"
+  },
+  {
+    "id": "ListingsDefaults.location",
+    "defaultMessage": "Location"
+  },
+  {
+    "id": "ListingsDefaults.address",
+    "defaultMessage": "Address"
+  },
+  {
+    "id": "ListingsDefaults.city",
+    "defaultMessage": "City"
+  },
+  {
+    "id": "ListingsDefaults.postalCode",
+    "defaultMessage": "Postal Code"
+  },
+  {
+    "id": "ListingsDefaults.saveDefaults",
+    "defaultMessage": "SAVE DEFAULTS"
+  },
+  {
+    "id": "ListingsDefaults.warning",
+    "defaultMessage": "Warning"
+  },
+  {
+    "id": "ListingsDefaults.ok",
+    "defaultMessage": "Ok"
+  },
+  {
+    "id": "ListingsDefaults.onlyImagesMsg",
+    "defaultMessage": "Only JPG/JPEG, GIF and PNG files are allowed."
+  }
+]

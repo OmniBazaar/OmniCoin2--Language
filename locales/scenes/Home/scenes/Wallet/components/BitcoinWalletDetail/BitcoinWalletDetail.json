@@ -1,0 +1,14 @@
+[
+  {
+    "id": "BitcoinWalletDetail.wallet",
+    "defaultMessage": "Wallet"
+  },
+  {
+    "id": "BitcoinWalletDetail.guid",
+    "defaultMessage": "Wallet GUID:"
+  },
+  {
+    "id": "BitcoinWalletDetail.currentBalance",
+    "defaultMessage": "Current Balance"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "LoginForm.accountDoesntExist",
+    "defaultMessage": "Account doesn't exist"
+  },
+  {
+    "id": "LoginForm.enterPassword",
+    "defaultMessage": "Enter password"
+  },
+  {
+    "id": "LoginForm.unlock",
+    "defaultMessage": "Unlock"
+  },
+  {
+    "id": "LoginForm.enterUsername",
+    "defaultMessage": "Enter your username"
+  },
+  {
+    "id": "LoginForm.fieldRequired",
+    "defaultMessage": "This field is required"
+  },
+  {
+    "id": "LoginForm.noAccount",
+    "defaultMessage": "Don't have an account yet?"
+  },
+  {
+    "id": "LoginForm.signup",
+    "defaultMessage": "Sign up"
+  },
+  {
+    "id": "LoginForm.error",
+    "defaultMessage": "Error"
+  }
+]

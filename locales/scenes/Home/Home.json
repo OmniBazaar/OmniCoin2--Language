@@ -1,0 +1,34 @@
+[
+  {
+    "id": "Home.wallets",
+    "defaultMessage": "Wallets"
+  },
+  {
+    "id": "Home.marketplace",
+    "defaultMessage": "Marketplace"
+  },
+  {
+    "id": "Home.transfer",
+    "defaultMessage": "Transfer"
+  },
+  {
+    "id": "Home.escrow",
+    "defaultMessage": "Escrow"
+  },
+  {
+    "id": "Home.processors",
+    "defaultMessage": "Processors"
+  },
+  {
+    "id": "Home.mail",
+    "defaultMessage": "Mail"
+  },
+  {
+    "id": "SettingsMenu.quickStart",
+    "defaultMessage": "Quick Start"
+  },
+  {
+    "id": "Home.support",
+    "defaultMessage": "Support"
+  }
+]

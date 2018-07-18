@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ProcessorsTable.rank",
+    "defaultMessage": "Rank"
+  },
+  {
+    "id": "ProcessorsTable.name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "ProcessorsTable.approval",
+    "defaultMessage": "Approval"
+  },
+  {
+    "id": "ProcessorsTable.reliability",
+    "defaultMessage": "Reliability"
+  },
+  {
+    "id": "ProcessorsTable.reputation",
+    "defaultMessage": "Reputation"
+  },
+  {
+    "id": "ProcessorsTable.referralScore",
+    "defaultMessage": "Referral Score"
+  },
+  {
+    "id": "ProcessorsTable.publisherScore",
+    "defaultMessage": "Publisher Score"
+  },
+  {
+    "id": "ProcessorsTable.netScore",
+    "defaultMessage": "Net Score"
+  },
+  {
+    "id": "ProcessorsTable.approve",
+    "defaultMessage": "Approve"
+  }
+]

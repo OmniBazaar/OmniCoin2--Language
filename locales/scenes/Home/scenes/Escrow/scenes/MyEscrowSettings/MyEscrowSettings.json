@@ -1,0 +1,30 @@
+[
+  {
+    "id": "MyEscrowSettings.title",
+    "defaultMessage": "I approve the following categories of users to be escrow agents for my transactions:"
+  },
+  {
+    "id": "MyEscrowSettings.firstCategory",
+    "defaultMessage": "Any user I give a positive reputation rating"
+  },
+  {
+    "id": "MyEscrowSettings.secondCategory",
+    "defaultMessage": "Any user I vote for as Transaction Processor"
+  },
+  {
+    "id": "MyEscrowSettings.thirdCategory",
+    "defaultMessage": "Any top participant who is an Active Transaction Processor"
+  },
+  {
+    "id": "MyEscrowSettings.save",
+    "defaultMessage": "SAVE SETTINGS"
+  },
+  {
+    "id": "MyEscrowSettings.saved",
+    "defaultMessage": "Successfully saved"
+  },
+  {
+    "id": "MyEscrowSettings.error",
+    "defaultMessage": "Error"
+  }
+]

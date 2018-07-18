@@ -1,0 +1,26 @@
+[
+  {
+    "id": "SearchMenu.default",
+    "defaultMessage": "Default"
+  },
+  {
+    "id": "SearchMenu.connectingToDht",
+    "defaultMessage": "Connecting to dht"
+  },
+  {
+    "id": "SearchMenu.saved",
+    "defaultMessage": "Saved searches"
+  },
+  {
+    "id": "SearchMenu.extendedSearch",
+    "defaultMessage": "Extended Search"
+  },
+  {
+    "id": "SearchMenu.viewAll",
+    "defaultMessage": "VIEW ALL"
+  },
+  {
+    "id": "SearchMenu.noSavedSearches",
+    "defaultMessage": "You haven't saved any searches yet"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Settings.currentVotes",
+    "defaultMessage": "Current Votes"
+  },
+  {
+    "id": "Settings.vote",
+    "defaultMessage": "VOTE"
+  },
+  {
+    "id": "Settings.processor",
+    "defaultMessage": "Processor"
+  },
+  {
+    "id": "Settings.votes",
+    "defaultMessage": "Votes (XOM)"
+  },
+  {
+    "id": "Settings.approval",
+    "defaultMessage": "Approval"
+  },
+  {
+    "id": "Settings.voted",
+    "defaultMessage": "Voted"
+  }
+]

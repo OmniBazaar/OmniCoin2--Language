@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ImportListings.myListings",
+    "defaultMessage": "My Listings"
+  },
+  {
+    "id": "ImportListings.importListings",
+    "defaultMessage": "Import Listings"
+  },
+  {
+    "id": "ImportListings.files",
+    "defaultMessage": "Files"
+  },
+  {
+    "id": "ImportListings.listingsVendor",
+    "defaultMessage": "Listings Vendor"
+  },
+  {
+    "id": "ImportListings.filesToImport",
+    "defaultMessage": "Files to Import"
+  },
+  {
+    "id": "ImportListings.addFiles",
+    "defaultMessage": "ADD FILES"
+  },
+  {
+    "id": "ImportListings.removeAll",
+    "defaultMessage": "REMOVE ALL"
+  },
+  {
+    "id": "ImportListings.importedData",
+    "defaultMessage": "Imported Data"
+  },
+  {
+    "id": "ImportListings.warning",
+    "defaultMessage": "Warning"
+  },
+  {
+    "id": "ImportListings.ok",
+    "defaultMessage": "Okay"
+  },
+  {
+    "id": "ImportListings.onlyTextFileMsg",
+    "defaultMessage": "Only txt files are allowed."
+  }
+]

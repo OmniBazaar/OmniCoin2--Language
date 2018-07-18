@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ExistingWallet.enterPassword",
+    "defaultMessage": "Enter Password for Account Access"
+  },
+  {
+    "id": "ExistingWallet.pleaseEnter",
+    "defaultMessage": "Please Enter"
+  },
+  {
+    "id": "ExistingWallet.walletGuid",
+    "defaultMessage": "Wallet GUID"
+  },
+  {
+    "id": "ExistingWallet.cancel",
+    "defaultMessage": "CANCEL"
+  },
+  {
+    "id": "ExistingWallet.connect",
+    "defaultMessage": "CONNECT"
+  },
+  {
+    "id": "NewWallet.required",
+    "defaultMessage": "This field is required"
+  }
+]

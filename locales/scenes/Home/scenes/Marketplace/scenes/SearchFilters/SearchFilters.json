@@ -1,0 +1,18 @@
+[
+  {
+    "id": "SearchResults.search",
+    "defaultMessage": "Search"
+  },
+  {
+    "id": "SearchMenu.currency",
+    "defaultMessage": "Currency"
+  },
+  {
+    "id": "AddListing.category",
+    "defaultMessage": "Category"
+  },
+  {
+    "id": "SearchMenu.subCategory",
+    "defaultMessage": "Sub-category"
+  }
+]

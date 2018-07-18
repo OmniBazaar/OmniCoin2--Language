@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ListingsDefaults.myListings",
+    "defaultMessage": "My Listings"
+  },
+  {
+    "id": "ListingsDefaults.listingDefaults",
+    "defaultMessage": "Listing Defaults"
+  },
+  {
+    "id": "ListingsDefaults.defaultsNote",
+    "defaultMessage": "This information will be pre-populated into all new listings you create."
+  },
+  {
+    "id": "ListingsDefaults.saveListingSuccessMessage",
+    "defaultMessage": "Listing Defaults were saved successfully."
+  },
+  {
+    "id": "ListingsDefaults.success",
+    "defaultMessage": "Success"
+  },
+  {
+    "id": "ListingsDefaults.saveDefaults",
+    "defaultMessage": "SAVE DEFAULTS"
+  }
+]

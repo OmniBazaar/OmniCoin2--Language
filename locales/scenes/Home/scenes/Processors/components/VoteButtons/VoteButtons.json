@@ -1,0 +1,10 @@
+[
+  {
+    "id": "VoteButtons.vote",
+    "defaultMessage": "Vote"
+  },
+  {
+    "id": "VoteButtons.cancel",
+    "defaultMessage": "Cancel"
+  }
+]
