@@ -1,0 +1,74 @@
+[
+  {
+    "id": "AirDropForm.receiveOmnicoinsByFollowingActions",
+    "defaultMessage": "You can receive {current_bonus_amount} OmniCoins just for doing the following actions"
+  },
+  {
+    "id": "AirDropForm.joinTelegramChannelSuggestion",
+    "defaultMessage": "Join our Telegram channel here:"
+  },
+  {
+    "id": "AirDropForm.telegramLink",
+    "defaultMessage": "OmniBazaar on Telegram"
+  },
+  {
+    "id": "AirDropForm.joinTelegramChannelConfirmation",
+    "defaultMessage": "I joined the OmniBazaar channel. My Telegram user name is"
+  },
+  {
+    "id": "AirDropForm.telegramUserName",
+    "defaultMessage": "User name"
+  },
+  {
+    "id": "AirDropForm.joinTwitterChannelSuggestion",
+    "defaultMessage": "Join our Twitter channel here:"
+  },
+  {
+    "id": "AirDropForm.twitterLink",
+    "defaultMessage": "OmniBazaar on Twitter"
+  },
+  {
+    "id": "AirDropForm.joinTwitterChannelConfirmation",
+    "defaultMessage": "I joined the OmniBazaar channel. My Twitter user name is"
+  },
+  {
+    "id": "AirDropForm.twitterUserName",
+    "defaultMessage": "User name"
+  },
+  {
+    "id": "AirDropForm.joinNewsletterChannelSuggestion",
+    "defaultMessage": "Join our Newsletter mailing list here:"
+  },
+  {
+    "id": "AirDropForm.mailchimpLink",
+    "defaultMessage": "OmniBazaar on MailChimp"
+  },
+  {
+    "id": "AirDropForm.joinNewsletterChannelConfirmation",
+    "defaultMessage": "I joined the OmniBazaar mailing list. My e-mail address is:"
+  },
+  {
+    "id": "AirDropForm.email",
+    "defaultMessage": "E-mail Address"
+  },
+  {
+    "id": "AirDropForm.receiveWelcomeBonus",
+    "defaultMessage": "Receive Welcome Bonus"
+  },
+  {
+    "id": "AirDropForm.skipFreeCoins",
+    "defaultMessage": "Skip the free coins"
+  },
+  {
+    "id": "AirDropForm.fieldRequired",
+    "defaultMessage": "This field is required"
+  },
+  {
+    "id": "AirDropForm.invalidEmail",
+    "defaultMessage": "Email is invalid"
+  },
+  {
+    "id": "LoginForm.signup",
+    "defaultMessage": "Sign up"
+  }
+]
