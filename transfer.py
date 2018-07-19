@@ -30,7 +30,12 @@ def replace(el, path):
                     )
 
 
-def walk():
+def process(data, root):
+    for el in data:
+        replace(el, root.replace(locales_root, ''))
+
+
+def walk(processor):
     for root, dirs, files in os.walk(locales_root):
         path = root.split(os.sep)
         for file in files:
@@ -38,12 +43,11 @@ def walk():
                 path = os.path.join(root, file)
                 with open(path) as json_data:
                     data = json.loads(json_data.read())
-                    for el in data:
-                        replace(el, root.replace(locales_root, ''))
+                    processor(data, root)
 
             except Exception as e:
                 print(str(e) + " " + path)
 
 
 if __name__ == '__main__':
-    walk()
+    walk(process)
